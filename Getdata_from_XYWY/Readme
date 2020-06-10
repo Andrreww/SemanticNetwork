@@ -1,0 +1,3 @@
+Dataget.py. Get data from http://jib.xywy.com/ to mongodb. Package: pymongo Database(mongo): testcollection
+
+Refer to: http://jib.xywy.com/
