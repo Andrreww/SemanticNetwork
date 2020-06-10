@@ -1,0 +1,9 @@
+spider_short.py. Collect short description. Package: bs4 pymongo Database(mongo): description_all
+
+spider3.py. Collect data from digestive-diseases Package: bs4 pymongo Database(mongo): digestive-diseases
+
+spider4.py. Collect data from Urologic-diseases Package: bs4 pymongo Database(mongo): Urologic-diseases
+
+spider5.py. Collect data from Liver-Disease Package: bs4 pymongo Database(mongo): Liver-Disease
+
+Refer to: https://www.niddk.nih.gov/
