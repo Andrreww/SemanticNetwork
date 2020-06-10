@@ -1,0 +1,9 @@
+Semantic_english.py. A simple English semantic network based on ancestors relation. Package: spacy
+
+Semantic_english2.py. SVO analysis based on spacy considering lemmatise and best-match. Package: spacy pattern3
+
+Semantic_english3.py. Application of spacy displace. Package: spacy
+
+You can find the data in wordset!
+
+Refer to: https://www.jianshu.com/p/f78453f5d1ca
