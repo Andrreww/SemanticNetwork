@@ -1,6 +1,11 @@
 Semantic.py. A simple semantic network based on word frequency. Package: Jieba networks
+
 Semantic2.py. Similar to Semantic.py but based on main word in a setence. Package: Jieba networks
+
 Semantic3.py. Simple SVO analysis and plot according to different custom dictionary. Package: jieba pattern3
+
 Semantic4.py. Similar to Semantic3.py but considering pronoun and more SVO appearing in one sentence. Package: pkuseg pattern3
+
 Semantic5.py. A simple tutorials of package pyltp for SVO analysis, Especially the dependency relationship. Package: pyltp
+
 Semantic6.py. Similar to Semantic5.py but considering preposition and adjective. Package: pyltp
