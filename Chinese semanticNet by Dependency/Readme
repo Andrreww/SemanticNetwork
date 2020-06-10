@@ -9,3 +9,5 @@ Semantic4.py. Similar to Semantic3.py but considering pronoun and more SVO appea
 Semantic5.py. A simple tutorials of package pyltp for SVO analysis, Especially the dependency relationship. Package: pyltp
 
 Semantic6.py. Similar to Semantic5.py but considering preposition and adjective. Package: pyltp
+
+You can find the dataset in wordset!
