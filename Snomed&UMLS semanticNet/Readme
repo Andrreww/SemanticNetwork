@@ -1,0 +1,15 @@
+The UMLS, or Unified Medical Language System, is a set of files and software that brings together many health and biomedical vocabularies and standards to enable interoperability between computer systems.
+
+Snomed.py. Get snomed data from website. Package: pymongo Database(mongo): UMLSnetwork_core
+
+Snonmed2neo4j. Put the data into neo4j. Package: py2neo Database(neo4j): Snomed
+
+Readumlsfiles.py. File to read rrf file in umls. Package: umls_all3
+
+umls_find_from_list.py. File to put the data from mongodb into neo4j. Database(neo4j): UMLS_concept_Givenlist
+
+umls2neo4j_food&healthcare.py. File to select food&healthcare into neo4j. Database(neo4j): UMLS_concept_food_healthcare
+
+Umls2neo4j.py. Put all the data into neo4j(699477 notes) Database(neo4j): UMLS_concept_all
+
+Refer to https://browser.ihtsdotools.org/snowstorm/snomed-ct
