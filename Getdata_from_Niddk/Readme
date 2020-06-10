@@ -1,3 +1,5 @@
+This part gives a method to get data from a large public medical website.
+
 spider_short.py. Collect short description. Package: bs4 pymongo Database(mongo): description_all
 
 spider3.py. Collect data from digestive-diseases Package: bs4 pymongo Database(mongo): digestive-diseases
