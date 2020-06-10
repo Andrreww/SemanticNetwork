@@ -1,0 +1,698 @@
+[{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a3e"
+  },
+  "name": "Hypermetabolism (Increased energy needs)",
+  "Definition": "Resting metabolic rate (RMR) above predicted requirements due to stress, trauma, injury, sepsis, or disease. Note: RMR is the sum of metabolic processes of|active cell mass related to the maintenance of normal body functions and regulatory balance during rest.",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Catabolic illness|• Infection|• Sepsis",
+  "Biochemical Data": "• Insulin resistance (difficult to control blood glucose)",
+  "Anthropometric Measurements": null,
+  "Physical Examination Findings": "• Fever\r• Increased heart rate\r• Increased respiratory rate\r• Measured RMR > estimated or expected RMR",
+  "Food/Nutrition History": null,
+  "Client History": "• Conditions associated with a diagnosis or treatment of, e.g., AIDS/HIV, burns, chronic obstructive pulmonary disease,\rhip/long bone fracture, infection, surgery, trauma, hyperthyroidism (pre- or untreated), some cancers (specify)\r• Medications associated with\rRMR"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a3f"
+  },
+  "name": "Increased energy expenditure",
+  "Definition": "Resting metabolic rate (RMR) above predicted requirements due to body composition, medication, endocrine, neurologic, or genetic change(s). Note: RMR is the|sum of metabolic processes of active cell mass related to the maintenance of normal body functions and regulatory balance during rest.",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Anabolism or growth|• Volun tary or involuntary physical activity/movement",
+  "Biochemical Data": null,
+  "Anthropometric Measurements": "• Unintentional weight loss of 10% in 6 months, 5% in 1 month\r• Evidence of need for accelerated or catch up growth or weight gain in children; absence of normal growth\r• Increased proportional lean body mass",
+  "Physical Examination Findings": "• Measured RMR > estimated or expected RMR",
+  "Food/Nutrition History": "• Increased physical activity, e.g., endurance athlete",
+  "Client History": "• Conditions associated with a diagnosis or treatment, e.g., Parkinson’s disease, cerebral palsy, Alzheimer’s disease, other\rdementia"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a40"
+  },
+  "name": "Hypometabolism (Decreased energy needs)",
+  "Definition": "Resting metabolic rate (RMR) below predicted requirements due to body composition, medications, endocrine, neurologic, or genetic changes",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Loss of lean body mass, weight loss|• Medications, e.g., midazolam, propranalol, glipizide|• Endocrine changes, e.g., hypothyroidism",
+  "Biochemical Data": "• Increased TSH, decreased T4, T3 (hypothyroidism)",
+  "Food/Nutrition History": null,
+  "Client History": "• Conditions associated with a diagnosis or treatment, e.g., hypothyroidism, anorexia nervosa, malnutrition, failure to thrive,\rPrader-Willi syndrome, hypotonic conditions\r• Bradycardia, hypotension,  decreased bowl motility, slow breathing rate, low body temperature (in significant weight loss)\r• Cold intolerance, hair loss, decreased endurance, difficulty concentrating, decreased libido, feelings of anxiety/depression"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a41"
+  },
+  "name": "Inadequate energy intake",
+  "Definition": "Energy in take that is less than energy expenditure, established reference standards, or recommendations based upon physiological needs.  Exception: when the|goal is weigh t loss or during end of life care.",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Pathologic or physiologic causes that result in increased energy requirements or decreased ability to consume sufficient energy, e.g., increased nutrient|needs due to prolonged catabolic illness|• Lack of access to food or artificial nutrition, e.g., economic constraints, cultural or religious practices restricting food given to elderly and/or children|• Food- and nutrition-related knowledge deficit|• Psychological causes, e.g., depression or disordered eating",
+  "Biochemical Data": "•\rChol",
+  "Anthropometric Measurements": null,
+  "Physical Examination Findings": "• Weight loss\r• Poor dentition",
+  "Client History": "• Excessive consumption of alcohol or other drugs that reduce hunger",
+  "Food/Nutrition History": "Reports or observations of:\r• Insufficient energy intake from diet compared to needs based on estimated or measured resting metabolic rate\r• Restriction or omission of energy dense foods from diet\r• Food avoidance and/or lack of interest in food\r• Inability to independently consume foods/fluids (diminished joint mobility of wrist,  hand, or digits)\r• Parenteral or enteral nutrition insufficient to meet needs based on estimated or measured resting metabolic rate"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a42"
+  },
+  "name": "Excessive energy intake",
+  "Definition": "Caloric intake that exceeds energy expenditure, established reference standards, or recommendations based upon physiological needs. Exception:  when weight|gain is desired.",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Harmful beliefs/attitudes about food, nutrition, and nutrition-related topics|• Food- and nutrition-related knowledge deficit|• Lack of access to healthful food choices, e.g., food provided by caregiver|• Lack of value for behavior change, competing values|• Mental illness, depression|• Medications that increase appetite, e.g., steroids|• Overfeeding of parenteral/enteral nutrition (TPN/EN)|• Unwilling or uninterested in reducing energy intake|• Failure to adjust for lifestyle changes and decreased metabolism, e.g., aging|• Resolution of prior hypermetabolism without reduction in intake",
+  "Biochemical Data": "• Overfeeding of TPN/EN (usually seen early after initiation of feeding):\r• Hyperglycemia\r• Hypokalemia < 3.5 mEq/L\r• Hypophosphatemia <1.0 mEq/L\r• Abnormal liver function tests",
+  "Anthropometric Measurements": "• Body fat percentage > 25% for men and > 32% for women\r• BMI > 25\r• Weight gain",
+  "Food/Nutrition History": "• Observations or reports of intake of calorically dense foods/beverages or large portions of foods/beverages\r• Observations, reports, or calculation of TPN/EN above estimated or measured (e.g., indirect calorimetry) caloric\rexpenditure\r• Metabolic cart/indirect calorimetry measurement, e.g., respiratory quotient > 1.0",
+  "Client History": "• Conditions associated with a diagnosis or treatment of, e.g., obesity, overweight,  metabolic syndrome, depression, or\ranxiety disorder"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a43"
+  },
+  "name": "Inadequate oral food/beverage intake",
+  "Definition": "Oral food/beverage intake that is less than established reference standards or recommendations based upon physiological needs.  Exception: when the goal is|weight loss or during end of life care.",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Physiologic causes, e.g., increased nutrient needs due to prolonged catabolic illness|• Lack of access to food, e.g., economic constraints, cultural or religious practices, restricting food given to elderly and/or children|• Food- and nutrition-related knowledge deficit concern ing sufficient oral food/beverage intake|• Psychological causes, e.g., depression or disordered eating",
+  "Biochemical Data": null,
+  "Anthropometric Measurements": null,
+  "Physical Examination Findings": "• Dry skin, dry mucous membranes, poor skin turgor\r• Weight loss, insufficient growth velocity",
+  "Food/Nutrition History": "Reports or observations of:\r• Insufficient intake of energy or high-quality protein from diet when compared to requirements\r• Economic constraints that limit food availability",
+  "Client History": "• Conditions associated with a diagnosis or treatment of catabolic illness such as AIDS, tuberculosis, anorexia nervosa,\rsepsis, or infection from recent surgery), depression, acute or chronic pain\r• Protein and/or nutrient malabsorption\r• Excessive consumption of alcohol or other drugs that reduce hunger\r• Medications that cause anorexia"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a44"
+  },
+  "name": "Excessive oral food/beverage intake",
+  "Definition": "Oral food/beverage intake that exceeds energy expenditure, established reference standards, or recommendations based upon physiological needs.  Exception:|when weight gain is desired.",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Harmful beliefs/attitudes about food, nutrition, and nutrition-related topics|• Food- and nutrition-related knowledge deficit|• Lack of access to healthful food choices, e.g., food provided by caregiver|• Lack of value for behavior change, competing values|• Inability to limit or refuse offered foods|• Lack of food planning, purchasing, and preparation skills|• Loss of appetite awareness|• Medications that increase appetite, e.g., steroids, antidepressants|• Unwilling or uninterested in reducing intake",
+  "Biochemical Data": "• Variable high blood glucose levels\r• Abnormal Hgb A1C",
+  "Anthropometric Measurements": "• Weight gain not attributed to fluid retention or normal growth",
+  "Client History": "• Conditions associated with a diagnosis or treatment, e.g., obesity, overweight, or metabolic syndrome, depression, anxiety\rdisorder\r• Resting metabolic rate measurement reflecting excess intake, e.g., respiratory quotient > 1.0",
+  "Food/Nutrition History": "Reports or observations of:\r• Intake of calorically dense foods/beverages (juice, soda, or alcohol) at meals and/or snacks\r• Intake of large portions of foods/beverages, food groups, or specific food items\r• Intake that exceeds estimated or measured energy needs\r• Highly variable daily caloric intake\r• Binge eating patterns\r• Frequent, excessive intake of fast food or restaurant food"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a45"
+  },
+  "name": "Inadequate intake from enteral/parenteral\rnutrition infusion",
+  "Definition": "Enteral or parenteral infusion that provides fewer calories or nutrients compared to established reference standards or recommendations based upon physiological|needs.  Exception: when the goal is weigh t loss or during end of life care.",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Altered absorption or metabolism of nutrients, e.g., medications|• Food and nutrition-related knowledge deficit (patient/client, caregiver, supplier), e.g., incorrect formula/formulation given such as wrong enteral feeding,|or missing component of TPN|• Lack of, compromised, or incorrect access for delivering EN/TPN|• Increased biological demand of nutrients, e.g., accelerated growth , wound healing, chronic infection, multiple fractures|• Intolerance of EN/TPN|• Infusion volume not reached or schedule for infusion interrupted",
+  "Biochemical Data": "• Cholesterol < 160 mg/dL (4.16 mmol/L)\r• Vitamin/mineral  abnormalities\r• Calcium < 9.2 mg/dL (2.3 mmol/L)\r• Vitamin K--Prolonged prothrombin time (PT), partial thromboplastin time (PTT)\r• Copper < 70 μg/dL (11 μmol/L)\r• Zinc < 78 μg/dL (12 μmol/L)\r• Iron < 50 μg/dL (9 nmol/L); iron binding capacity < 250 μg/dL (44.8 μmol/L)",
+  "Food/Nutrition History": "Observation or reports of:\r• Inadequate EN/TPN volume compared to estimated or measured (indirect calorimetry)  requirements\r• Metabolic cart/indirect calorimetry measurement, e.g., respiratory quotient < 0.7",
+  "Client History": "• Conditions associated with a diagnosis or treatment of, e.g., intestinal resection, Crohn’s disease, HIV/AIDS, burns,\rdecubitus ulcers, pre-term birth, malnutrition\r• Feeding tube or venous access in wrong position or removed\r• Altered capacity for desired levels of physical activity or exercise, easy fatigue with increased activity",
+  "Anthropometric Measurements": "• Growth failure, based on National Center for Health Statistics (NCHS) growth standards and fetal growth failure\r• Insufficient maternal weight gain\r• Lack of planned weight gain\r• Unintentional weight loss of 5% in 1 month or 10% in 6 months (not attributed to fluid) in adults\r• Any weight loss in infants and children\r• Underweight (BMI < 18.5)"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a46"
+  },
+  "name": "Excessive intake from enteral/parenteral\rnutrition",
+  "Definition": "Enteral or parenteral infusion that provides more calories or nutrients compared to established reference standards or recommendations based upon physiological|needs.",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Physiologic causes, e.g., decreased needs related to low activity levels with critical illness or organ failure|• Food- and nutrition-related knowledge deficit on the part of the caregiver, patient/client or clinician",
+  "Biochemical Data": "• Elevated BUN:creatinine ratio (protein)\r• Hyperglycemia (carbohydrate)\r• Hypercapnia\r• Elevated liver enzymes",
+  "Anthropometric Measurements": "• Weight gain in excess of lean tissue accretion",
+  "Physical Examination Findings": "• Edema with excess fluid administration",
+  "Food/Nutrition History": "Report or observation of:\r• Documented intake from enteral or parenteral nutrients that is consistently above recommended intake for carbohydrate,\rprotein, and fat (e.g., 36 kcal/kg for well, active adults, 25 kcal/kg or as measured by indirect calorimetry for critically\rill adults, 0.8 g/kg protein for well adults, 1.5 g/kg protein for critically ill adults, 4 mg/kg/minute of dextrose for\rcritically ill adults, 1.2 g/kg lipid for adults, or 3 g/kg for children)*",
+  "Client History": "• Use of drugs that reduce requirements or impair metabolism of energy, protein, fat or fluid.\r• Unrealistic expectations of weight gain or ideal weight\r• Receiving significant calorie intake from lipid or dextrose infusions, or peritoneal dialysis or in association with other\rmedical treatments"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a47"
+  },
+  "name": "Inappropriate infusion of enteral/parenteral\rnutrition\rUSE WITH CAUTION ONLY AFTER\rDISCUSSION WITH OTHER MEMBERS OF\rTHE HEALTH CARE TEAM",
+  "Definition": "Enteral or parenteral infusion that provides either fewer or more calories and/or nutrients or is of the wrong composition or type, is not warranted because the|patient/client is able to tolerate an enteral intake, or is unsafe because of the potential for sepsis or other complications",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Physiologic causes, e.g., improvement in patient/client status, allowing return to total or partial oral diet; changes in the course of disease resulting in|changes in nutrient requirements|• Product or knowledge deficit on the part of the caregiver or clinician|• End of life care if patient/client or family do not desire nutrition support",
+  "Biochemical Data": "• Abnormal liver function tests in patient/client on long term (more than 3-6 weeks) feeding\r• Abnormal levels of markers specific for various nutrients, e.g., hyperphosphatemia in patient/client receiving feedings\rwith a high phosphorus content, hypokalemia in patient/client receiving feedings with low potassium content",
+  "Anthropometric Measurements": "• Weight gain in excess of lean tissue accretion\r• Weight loss",
+  "Physical Examination Findings": "• Edema with excess fluid administration\r• Complications such as fatty liver in the absence of other causes\r• Loss of subcutaneous fat and muscle stores",
+  "Client History": "• History of enteral or parenteral nutrition intolerance",
+  "Food/Nutrition History": "Report or observation of:\r• Documented intake from enteral or parenteral nutrients that is consistently above or below recommended intake for\rcarbohydrate, protein, and/or fat — especially related to patient/client’s ability to consume an oral diet that meets needs\rat this point in time\r• Documented intake of other nutrients that is consistently above or below that recommended\r• Nausea, vomiting, diarrhea, high gastric residual volume"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a48"
+  },
+  "name": "Inadequate fluid intake",
+  "Definition": "INADEQUATE FLUID INTAKE (NI-3.1)|Lower intake of fluid-containing foods or substances compared to established reference standards or recommendations based upon physiological needs",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Physiologic causes, e.g., increased fluid needs due to climate/temperature change; increased exercise or conditions leading to increased fluid losses; fever|causing increased insensible losses, decreased thirst sensation, use of drugs that reduce thirst|• Lack of access to fluid, e.g., economic constraints, cultural or religious practices, inability to access fluid independently (such as elderly or children)|• Food- and nutrition-related knowledge deficit|• Psychological causes, e.g., depression or disordered eating; demen tia resulting in decreased recognition of thirst",
+  "Biochemical Data": "• Plasma or serum osmolality greater than 290 mOsm/kg\r•\rBUN,Na",
+  "Anthropometric Measurements": "• Acute weight loss",
+  "Physical Examination Findings": "• Dry skin and mucous membranes, poor skin turgor\r• Urine output <30 mL/hr",
+  "Food/Nutrition History": "Report or observation of:\r• Insufficient intake of fluid when compared to requirements\r• Thirst\r• Difficulty swallowing",
+  "Client History": "• Conditions associated with a diagnosis or treatment, e.g., Alzheimer’s disease or other dementia resulting in decreased\rrecognition of thirst, diarrhea\r• Use of drugs that reduce thirst"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a49"
+  },
+  "name": "Excessive fluid intake",
+  "Definition": "EXCESSIVE FLUID INTAKE (NI-3.2)|Higher intake of fluid compared to established reference standards or recommendations based upon physiological needs",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Physiologic causes, e.g., decreased fluid losses due to kidney, liver or cardiac failure; diminished water and sodium losses due to changes in exercise or|climate, syndrome of inappropriate antidiuretic hormone (SIADH)|• Food- and nutrition-related knowledge deficit|• Psychological causes, e.g., depression or disordered eating",
+  "Biochemical Data": "• Lowered plasma osmolarity (270-280 mOsm/kg), only if positive fluid balance is in excess of positive salt balance\r• Decreased serum sodium in SIADH",
+  "Anthropometric Measurements": "• Weight gain",
+  "Physical Examination Findings": "• Edema in the skin of the legs, sacral area, or diffusely; weeping of fluids from lower legs\r• Ascites\r• Pulmonary edema as evidenced by shortness of breath; orthopnea; crackles or rales",
+  "Food/Nutrition History": "Report or observation of:\r• Fluid intake in excess of recommended intake\r• Excessive salt intake\r• Inability to tolerate solid foods necessitating a liquid diet",
+  "Client History": "• Conditions associated with a diagnosis or treatment, e.g., end stage renal disease, nephrotic syndrome, heart failure, or\rliver disease\r• Nausea, vomiting, anorexia, headache, muscle spasms, convulsions, coma related to SIADH\r• Shortness of breath or dyspnea with exertion or at rest\r• Providing medications in large amounts of fluid\r• Use of drugs that impair fluid excretion"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a4a"
+  },
+  "name": "Inadequate bioactive substance intake",
+  "Definition": "Lower intake of bioactive substances containing foods or substances compared to established reference standards or recommendations based upon physiological|needs",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Food- and nutrition-related knowledge deficit|• Limited access to food-containing substance|• Altered GI function, e.g., pain or discomfort",
+  "Biochemical Data": null,
+  "Anthropometric Measurements": null,
+  "Food/Nutrition History": "Observations or reports of:\r• Low intake of plant foods containing:\r• Soluble fiber, e.g., psyllium (\rtotal and LDL cholesterol)\r• Soy protein (\rtotal and LDL cholesterol)\r•\r-glucan, e.g., whole oat products (total and LDL cholesterol)\r• Plant sterol and stanol esters, e.g., fortified margarines (\rtotal and LDL cholesterol)\r• Lack of available foods/products with bioactive substance in markets",
+  "Client History": "• Conditions associated with a diagnosis or treatment, e.g., cardiovascular disease, elevated cholesterol\r• Discomfort or pain associated with intake of foods rich in bioactive substances, e.g., soluble fiber,\r-glucan, soy protein"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a4b"
+  },
+  "name": "Excessive bioactive substance intake",
+  "Definition": "Higher intake of bioactive substances other than traditional nutrients, such as functional foods, bioactive food components, dietary supplements, or food|concentrates compared to established reference standards or recommendations based upon physiological needs",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Food- and nutrition-related knowledge deficit|• Contamination, misname, mislabel, misuse, recent brand change, recent dose increase, recent formulation change of substance consumed|• Frequent intake of food containing bioactive substance|• Altered GI function, e.g., pain or discomfort",
+  "Biochemical Data": "• Lab values indicating excessive intake of the specific substance, such as rapid drop in cholesterol from intake of stanol or\rsterol esters in combination with a statin drug\r• Increased hepatic enzyme reflecting hepatocellular damage",
+  "Anthropometric Measurements": "• Weight loss as a result of malabsorption or maldigestion",
+  "Client History": "• Conditions associated with a diagnosis or treatment, e.g., cardiovascular disease, elevated cholesterol, hypertension\r• Discomfort or pain associated with intake of foods rich in bioactive substances, e.g., soluble fiber,\r-glucan, soy protein\r• Attempts to use supplements or bioactive substances for weight loss, treat constipation, prevent or cure chronic or acute\rdisease",
+  "Food/Nutrition History": "Observations or reports of:\r• High intake of plant foods containing:\r• Soy protein (\rtotal and LDL cholesterol)\r•\r-glucan, e.g., whole oat products (total and LDL cholesterol)\r• Plant sterol and stanol esters, e.g., fortified margarines (\rtotal and LDL cholesterol) or other foods based upon dietary\rsubstance, concentrate, metabolite, constituent, extract or combination\r• Substances which interfere with digestion or absorption of foodstuffs\r• Ready access to available foods/products with bioactive substance, e.g., as from dietary supplement vendors"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a4c"
+  },
+  "name": "Excessive alcohol intake",
+  "Definition": "Intake above the suggested limits for alcohol",
+  "Etiology": "EXCESSIVE ALCOHOL INTAKE (NI-4.3)|Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems.|• Harmful beliefs/attitudes about food, nutrition, and nutrition-related topics|• Food- and nutrition-related knowledge deficit|• Lack of value for behavior change, competing values|• Alcohol addiction",
+  "Biochemical Data": "• Elevated aspartate aminotransferase (AST), gamma-glutamyl transferase (GGT), carbohydrate-deficient transferrin, mean\rcorpuscular volume, blood alcohol levels",
+  "Anthropometric Measurements": null,
+  "Food/Nutrition History": "Reports or observations of:\r• Intake of > 2 drinks/day (men) (1 drink = 5 oz. wine, 12 oz beer, 1 oz. distilled alcohol)\r• Intake of > 1 drink/day (women) (1 drink = 5 oz. wine, 12 oz beer, 1 oz. distilled alcohol)\r• Binge drinking\r• Consumption of any alcohol when contraindicated",
+  "Client History": "• Conditions associated with a diagnosis or treatment, e.g., severe hypertriglyceridemia, elevated blood pressure,\rdepression, liver disease, pancreatitis\r• New medical diagnosis or change in existing diagnosis or condition\r• History of excessive alcohol intake\r• Giving birth to an infant with fetal alcohol syndrome\r• Drinking during pregnancy despite knowledge of risk\r• Unexplained falls"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a4d"
+  },
+  "name": "Increased nutrient needs (specify)",
+  "Definition": "INCREASED NUTRIENT NEEDS (SPECIFY) (NI-5.1)|Increased need for a specific nutrient compared to established reference standards or recommendations based upon physiological needs",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Altered absorption or metabolism of nutrient, e.g., from medications|• Compromise of organs related to GI function, e.g., pancreas, liver|• Decreased functional length of intestine, e.g., short bowel syndrome|• Decreased or compromised function of in testine, e.g., celiac disease, Crohn’s disease|• Food- and nutrition-related knowledge deficit|• Increased demand of nutrient, e.g., accelerated growth , wound healing, chronic infection",
+  "Biochemical Data": "• Decreased cholesterol < 160 mg/dL, albumin, prealbumin, C-reactive protein, indicating increased stress and increased\rmetabolic needs\r• Electrolyte/mineral (e.g., potassium, magnesium, phosphorus) abnormalities\r• Urinary or fecal losses of specific or related nutrient (e.g., fecal fat, d-xylose test)\r• Vitamin and/or mineral deficiency",
+  "Anthropometric Measurements": "• Growth failure, based on National Center for Health Statistics (NCHS) growth standards and fetal growth failure\r• Unintentional weight loss of 5% in 1 month or 10% in 6 months\r• Underweight (BMI < 18.5)",
+  "Food/Nutrition History": "Observation or reports of:\r• Inadequate intake of foods/supplement containing needed nutrient as compared to estimated requirements\r• Intake of foods that do not contain sufficient quantities of available nutrient (e.g., overprocessed, overcooked, or stored\rimproperly)\r• Food and nutrition-related knowledge deficit (e.g., lack of information, incorrect information or noncompliance with\rintake of needed nutrient)",
+  "Client History": "• Fever\r• Conditions associated with a diagnosis or treatment, e.g., intestinal resection, Crohn’s disease, HIV/AIDS, burns, pressure\rulcers, pre-term birth, malnutrition\r• Medications affecting absorption or metabolism of needed nutrient",
+  "Physical Examination Findings": "• Clinical evidence of vitamin/mineral deficiency (e.g., hair loss, bleeding gums, pale nail beds)\r• Loss of skin integrity or delayed wound healing\r• Loss of muscle mass, subcutaneous fat"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a4e"
+  },
+  "name": "Evident protein-energy malnutrition",
+  "Definition": "EVIDENT PROTEIN-ENERGY MALNUTRITION (NI-5.2)|Inadequate intake of protein and/or energy over prolonged periods of time resulting in loss of fat stores and/or muscle wasting",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Physiologic causes, e.g., altered nutrient needs due to prolonged catabolic illness, malabsorption|• Lack of access to food, e.g., economic constraints, cultural or religious practices, restricting food given to elderly and/or children|• Food- and nutrition-related knowledge deficit, e.g., avoidance of high quality protein foods|• Psychological causes, e.g., depression or eating disorders",
+  "Biochemical Data": "• Normal serum albumin level (uncomplicated malnutrition)\r• Albumin < 3.4 mg/dL (disease/trauma-related malnutrition)",
+  "Anthropometric Measurements": "• BMI < 18.5 indicates underweight\r• Failure to thrive, e.g. failure to attain desirable growth rates\r• Inadequate maternal weight gain\r• Weight loss of > 10% in 6 months or 5% in 1 month\r• Underweight with muscle wasting\r• Normal or slightly underweight, stunted growth in children",
+  "Food/Nutrition History": "Reports or observations of:\r• Insufficient energy intake from diet compared to estimated or measured RMR\r• Insufficient intake of high-quality protein when compared to requirements\r• Food avoidance and/or lack of interest in food",
+  "Client History": "• Chronic or acute disease or trauma, geographic location and socioeconomic status associated with altered nutrient intake of\rindigenous phenomenon\r• Severe protein and/or nutrient malabsorption (e.g. extensive bowel resection)\r• Excessive consumption of alcohol or other drugs that reduce hunger"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a4f"
+  },
+  "name": "Inadequate protein-energy intake",
+  "Definition": "INADEQUATE PROTEIN-ENERGY INTAKE (NI-5.3)|Inadequate intake of protein and/or energy compared to established reference standards or recommendations based upon physiological needs of short or recent|duration",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems.|• Short-term physiologic causes, e.g., increased nutrient needs due to catabolic illness, malabsorption|• Recent lack of access to food, e.g., economic constraints, cultural or religious practices, restricting food given or food selected|• Food- and nutrition-related knowledge deficit, e.g., avoidance of all fats for new dieting pattern|• Recent onset of psychological causes, e.g., depression or eating disorders",
+  "Biochemical Data": "• Normal albumin (in the setting of normal liver function despite decrease protein-energy intake)",
+  "Anthropometric Measurements": "• Inadequate maternal weight gain (mild but not severe)\r• Weight loss of 5-7% over past 3 months in adults, any weight loss in children\r• Normal or slightly underweight\r• Growth failure in children",
+  "Client History": "• Conditions associated with a diagnosis or treatment of mild protein-energy malnutrition, recent illness, e.g. pulmonary or\rcardiac failure, flu, infection, surgery\r• Nutrient malabsorption (e.g. bariatric surgery, diarrhea, steatorrhea)\r• Excessive consumption of alcohol or other drugs that reduce hunger\r• Patient/client reports of hunger in the face of inadequate access to food supply\r• Patient/client reports lack of ability to prepare meals\r• Patient/client reports lack of funds for purchase of appropriate foods",
+  "Food/Nutrition History": "Reports or observations of:\r• Insufficient energy intake from diet compared to estimated or measured resting metabolic rate (RMR) or recommended\rlevels\r• Restriction or omission of food groups such as dairy or meat group foods (protein); bread or milk group foods (energy)\r• Recent food avoidance and/or lack of interest in food\r• Lack of ability to prepare meals"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a50"
+  },
+  "name": "Decreased nutrient needs (specify)",
+  "Definition": "DECREASED NUTRIENT NEEDS (SPECIFY) (NI-5.4)|Decreased need for a specific nutrient compared to established reference standards or recommendations based upon physiological needs",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Renal dysfunction|• Liver dysfunction|• Altered cholesterol metabolism/regulation|• Hear t failure|• Food intolerances, e.g., irritable bowel syndrome",
+  "Biochemical Data": "• Cholesterol > 200 mg/dL (5.2 mmol/L), LDL cholesterol > 100 mg/dL (2.59 mmol/L), HDL cholesterol < 40 mg/dL\r(1.036 mmol/L), triglycerides > 150 mg/dL (1.695 mmol/L)\r• Phosphorus > 5.5 mg/dL (1.78 mmol/L)\r•2Glomerular filtration rate (GFR) < 90 mL/min/1.73 m\r• Elevated BUN, Cr, potassium\r• Liver function tests indicating severe liver disease",
+  "Anthropometric Measurements": null,
+  "Client History": "• Conditions associated with a diagnosis or treatment that require a specific type and/or amount of nutrient, e.g.,\rcardiovascular disease (fat), early renal disease (protein, phosphorus), ESRD (phosphorus, sodium, potassium, fluid),\radvanced liver disease (protein), heart failure (sodium, fluid), irritable bowel disease/Crohn’s disease flare up (fiber)\r• Diagnosis of hypertension, confusion related to liver disease",
+  "Food/Nutrition History": "Reports or observations of:\r• Intake higher than recommended for fat, phosphorus, sodium, protein, fiber"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a51"
+  },
+  "name": "Imbalance of nutrients",
+  "Definition": "IMBALANCE OF NUTRIENTS (NI-5.5)|An undesirable combination of ingested nutrients, such that the amount of one nutrient ingested interferes with or alters absorption and/or utilization of another|nutrient",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Consumption of high dose nutrient supplements|• Food- and nutrition-related knowledge deficit|• Harmful beliefs/attitudes about food, nutrition, and nutrition-related information|• Food faddism",
+  "Biochemical Data": null,
+  "Food/Nutrition History": "Reports or observations of:\r• High intake of iron supplements (\rzinc absorption)\r• High intake of zinc supplements (\rcopper status)\r• High intake of manganese (\riron status)",
+  "Client History": "• Diarrhea or constipation (iron supplements)\r• Epigastric pain, nausea, vomiting, diarrhea (zinc supplements)\r• Contributes to the development of anemia (manganese supplements)"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a52"
+  },
+  "name": "Inadequate fat intake",
+  "Definition": "INADEQUATE FAT INTAKE (NI-51.1)|Lower fat intake compared to established reference standards or recommendations based upon physiological needs. Exception: when the goal is weight loss or|during end of life care.",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Inappropriate food choices, e.g., economic constraints, cultural or religious practices, restricting food given to elderly and/or children, specific food choices|• Food- and nutrition-related knowledge deficit, e.g,. prolonged adherence to a very low fat diet|• Psychological causes, e.g., depression or disordered eating",
+  "Biochemical Data": "• Triene:tetraene ratio >0.2",
+  "Anthropometric Measurements": "• Weight loss if insufficient calories consumed",
+  "Physical Examination Findings": "• Rough, scaly skin that becomes dermatitis with essential fatty acid deficiency",
+  "Food/Nutrition History": "Report or observation of\r• Intake of essential fatty acid containing foods consistently providing less than 10% of calories",
+  "Client History": "• Conditions associated with a diagnosis or treatment, e.g., prolonged catabolic illness (e.g., AIDS, tuberculosis,\ranorexia nervosa, sepsis or severe infection from recent surgery)\r• Severe fat malabsorption with bowel resection, pancreatic insufficiency, or hepatic disease accompanied by\rsteatorrhea"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a53"
+  },
+  "name": "Excessive fat intake",
+  "Definition": "Higher fat intake compared to established reference standards or recommendations based upon physiological needs",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Food- and nutrition-related knowledge deficit|• Harmful beliefs/attitudes about food, nutrition, and nutrition-related topics|• Lack of access to healthful food choices, e.g., food provided by caregiver|• Changes in taste and appetite or preference|• Lack of value for behavior change; competing values",
+  "Biochemical Data": "• Cholesterol >200 mg/dL (5.2 mmol/L), LDL cholesterol > 100 mg/dL (2.59 mmol/L), HDL cholesterol < 40 mg/dL (1.036\rmmol/L), triglycerides > 150 mg/dL (1.695 mmol/L)\r• Elevated serum amylase and/or lipase\r• Elevated liver function tests and/or total bilirubin\r• Triene:tetraene ratio > 0.4\r• Fecal fat > 7g/ 24 hours",
+  "Anthropometric Measurements": null,
+  "Client History": "• Conditions associated with a diagnosis or treatment, e.g., hyperlipidemia, cystic fibrosis,  angina, artherosclerosis,\rpancreatic, liver, and biliary diseases; post-transplantation\r• Medication, e.g., pancreatic enzymes, cholesterol, or other lipid-lowering medications\r• Diarrhea, cramping, steatorrhea, epigastric pain\r• Family history of hyperlipidemia, atherosclerosis, or pancreatitis.",
+  "Food/Nutrition History": "Reports or observations of:\r• Frequent or large portions of high-fat foods\r• Frequent food preparation with added fat\r• Frequent consumption of high-risk lipids (i.e., saturated fat, trans fat, cholesterol)\r• Report of foods containing fat above diet prescription\r• Inadequate intake of essential lipids"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a54"
+  },
+  "name": "Inappropriate intake of food fats (specify)",
+  "Definition": "INAPPROPRIATE INTAKE OF FOOD FATS (NI-51.3)|Intake of wrong type or quality of food fats compared to established reference standards or recommendations based upon physiological needs",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Food- and nutrition-related knowledge deficit|• Harmful beliefs/attitudes about food, nutrition, and nutrition-related topics|• Lack of access to healthful food choices, e.g., food provided by caregiver, pediatrics, homeless|• Changes in taste and appetite or preference|• Lack of value for behavior change; competing values",
+  "Biochemical Data": "• Cholesterol >200 mg/dL (5.2 mmol/L), LDL cholesterol > 100 mg/dL (2.59 mmol/L), HDL cholesterol < 40 mg/dL (1.036\rmmol/L), triglycerides > 150 mg/dL (1.695 mmol/L)\r• Elevated serum amylase and/or lipase\r• Elevated liver function tests, total bilirubin, and C-reactive protein",
+  "Anthropometric Measurements": null,
+  "Client History": "• Conditions associated with a diagnosis or treatment of diabetes, cardiac diseases, obesity, liver or biliary disorders\r• Diarrhea, cramping, steatorrhea, epigastric pain\r• Family history of diabetes-related heart disease, hyperlipidemia, atherosclerosis, or pancreatitis\r• Client desires to implement a Mediterranean-type diet",
+  "Food/Nutrition History": "Reports or observations of:\r• Frequent food preparation with added fat that is not of desired type for condition\r• Frequent consumption of fats that are undesirable for condition (i.e., saturated fat, trans fat, cholesterol, omega-6 fatty\racids)\r• Inadequate intake of monounsaturated, polyunsaturated, or omega-3 fatty acids"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a55"
+  },
+  "name": "Inadequate protein intake",
+  "Definition": "INADEQUATE PROTEIN INTAKE (NI-52.1)|Lower intake of protein-containing foods or substances compared to established reference standards or recommendations based upon physiological needs",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Physiologic causes, e.g., increased nutrient needs due to prolonged catabolic illness, malabsorption, age or condition|• Lack of access to food, e.g., economic constraints, cultural or religious practices, restricting food given to elderly and/or children|• Food- and nutrition-related knowledge deficit|• Psychological causes, e.g., depression or disordered eating",
+  "Biochemical Data": null,
+  "Anthropometric Measurements": null,
+  "Physical Examination Findings": null,
+  "Client History": "• Conditions associated with a diagnosis or treatment, e.g., severe protein malabsorption such as bowel resection"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a56"
+  },
+  "name": "Excessive protein intake",
+  "Definition": "EXCESSIVE PROTEIN INTAKE (NI-52.2)|Intake above the recommended level of protein compared to established reference standards or recommendations based upon physiological needs",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Liver dysfunction|• Renal dysfunction|• Harmful beliefs/attitudes about food, nutrition and nutrition-related topics|• Lack of access to specialized protein products|• Metabolic abnormality|• Food faddism",
+  "Biochemical Data": "• Altered laboratory values e.g.\rBUN,glomerular filtration rate (altered renal status)",
+  "Anthropometric Measurements": "• Growth stunting or failure based on National Center for Health Sstatistics growth charts (metabolic disorders)",
+  "Food/Nutrition History": "Reports or observations of:\r• Higher than recommended total protein intake, e.g., early renal disease, advanced liver disease with confusion\r• Inappropriate supplementation",
+  "Client History": "• Conditions associated with a diagnosis or treatment, e.g., early renal disease or advanced liver disease with confusion"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a57"
+  },
+  "name": "Inappropriate intake of amino acids (specify)",
+  "Definition": "INAPPROPRIATE INTAKE OF AMINO ACIDS (SPECIFY) (NI-52.3)|Intake that is more or less than recommended level and/or type of amino acids compared to established reference standards or recommendations based upon|physiological needs",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Liver dysfunction|• Renal dysfunction|• Harmful beliefs/attitudes about food, nutrition- and nutrition-related topics|• Misused specialized protein products|• Metabolic abnormality|• Food faddism|• Inborn errors of metabolism",
+  "Biochemical Data": "• Altered laboratory values, e.g.,\rBUN,glomerular filtration rate (altered renal status); increased urinary 3-methyl-\rhistidine\r• Elevated specific amino acids (inborn errors of metabolism)\r• Uremia, azotemia (renal patients)\r• Elevated homocysteine or ammonia",
+  "Anthropometric Measurements": null,
+  "Client History": "• Conditions associated with a diagnosis or treatment of illness that requires EN or TPN therapy\r• History of use of amino acids or protein powders for athletic enhancement\r• History of inborn error of metabolism",
+  "Food/Nutrition History": "Reports or observations of:\r• Higher than recommended amino acid intake, e.g., early renal disease, advanced liver disease, inborn error of metabolism\r• Higher than recommended type of amino acids for prescribed EN or TPN therapy\r• Inappropriate supplementation, as for athletes\r• Higher than recommended type of protein, e.g., excess phenylalanine intake"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a58"
+  },
+  "name": "Inadequate carbohydrate intake",
+  "Definition": "Lower intake of carbohydrate-containing foods or substances compared to established reference standards or recommendations based upon physiological needs",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Physiologic causes, e.g., increased energy needs due to increased activity level or metabolic change, malabsorption|• Lack of access to food, e.g., economic constraints, cultural or religious practices, restricting food given to elderly and/or children|• Food- and nutrition-related knowledge deficit|• Psychological causes, e.g., depression or disordered eating",
+  "Biochemical Data": null,
+  "Anthropometric Measurements": null,
+  "Physical Examination Findings": "• Ketone smell on breath",
+  "Client History": "• Conditions associated with a diagnosis or treatment, e.g., pancreatic insufficiency, hepatic disease, celiac disease,\rseizure disorder, carbohydrate malabsorption, or low-carbohydrate diets"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a59"
+  },
+  "name": "Excessive carbohydrate intake",
+  "Definition": "Intake above the recommended level and type of carbohydrate compared to established reference standards or recommendations based upon physiological needs",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Physiologic causes requiring modified carbohydrate intake, e.g., diabetes mellitus, lactase deficiency, sucrase-isomaltase deficiency, aldolase-B deficiency|• Cultural or religious practices that interfere with the ability to reduce carbohydrate intake|• Food- and nutrition-related knowledge deficit, e.g., inability to access sufficient information concern ing appropriate carbohydrate intake|• Food and nutrition compliance limitations, e.g., lack of willingness or failure to modify carbohydrate intake in response to recommendations from a|dietitian or physician|• Psychological causes, e.g., depression or disordered eating",
+  "Biochemical Data": "• Hyperglycemia (fasting blood sugar > 126 mg/dL)\r• Hemoglobin A1C > 6%\r• Abnormal oral glucose tolerance test (2-hour postload glucose > 200 mg/dL)",
+  "Anthropometric Measurements": null,
+  "Physical Examination Findings": "• Dental caries\r• Diarrhea in response to carbohydrate feeding",
+  "Client History": "• Conditions associated with a diagnosis or treatment, e.g., diabetes mellitus, inborn errors of carbohydrate metabolism,\rlactase deficiency, severe infection, sepsis, or obesity\r• Chronic use of medications that cause hyperglycemia, e.g., steroids\r• Pancreatic insufficiency resulting in reduced insulin production",
+  "Food/Nutrition History": "Reports or observations of:\r• Cultural or religious practices that do not support modification of dietary carbohydrate intake\r• Economic constraints that limit availability of appropriate foods\r• Carbohydrate intake that is consistently above recommended amounts"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a5a"
+  },
+  "name": "Inappropriate intake of types of carbohydrate\r(specify)",
+  "Definition": "Intake or the type or amount of carbohydrate that is above or below the established reference standards or recommendations based upon physiological needs",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Physiologic causes requiring careful use of modified carbohydrate, e.g., diabetes mellitus, metabolic syndrome, hypoglycemia, celiac disease, allergies,|obesity|• Cultural or religious practices that interfere with the ability to regulate types of carbohydrate consumed|• Food- and nutrition-related knowledge deficit, e.g., inability to access sufficient information concern ing more appropriate carbohydrate types and/or|amounts|• Food and nutrition compliance limitations, e.g., lack of willingness or failure to modify carbohydrate intake in response to recommendations from a|dietitian, physician, or caregiver|• Psychological causes, e.g., depression or disordered eating",
+  "Biochemical Data": "• Hypoglycemia or hyperglycemia documented on regular basis when compared with goal of maintaining glucose\rlevels at or below 140 mg/dL throughout the day",
+  "Anthropometric Measurements": null,
+  "Physical Examination Findings": null,
+  "Client History": "• Conditions associated with a diagnosis or treatment, e.g., diabetes mellitus, obesity, metabolic syndrome,\rhypoglycemia\r• Chronic use of medications that cause altered glucose levels, e.g., steroids, antidepressants, antipsychotics",
+  "Food/Nutrition History": "Reports or observations of:\r• Diarrhea in response to high refined carbohydrate intake\r• Economic constraints that limit availability of appropriate foods\r• Carbohydrate intake that is different from recommended types\r• Allergic reactions to certain carbohydrate foods or food groups\r• Limited knowledge of carbohydrate composition of foods or of carbohydrate metabolism"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a5b"
+  },
+  "name": "Inconsistent carbohydrate intake",
+  "Definition": "Inconsistent timing of carbohydrate intake throughout the day, day-to-day, or a pattern of carbohydrate intake that is not consistent with recommended pattern|based upon physiologic or medication needs",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Physiologic causes requiring careful timing and consistency in the amount of carbohydrate, e.g., diabetes mellitus, hypoglycemia|• Cultural, religious practices, or lifestyle factors that interfere with the ability to regulate timing of carbohydrate consumption|• Food- and nutrition-related knowledge deficit, e.g., inability to access sufficient information concern ing more appropriate timing of carbohydrate intake|• Food and nutrition compliance limitations, e.g., lack of willingness or failure to modify carbohydrate timing in response to recommendations from a|dietitian,  physician, or caregiver|• Psychological causes, e.g., depression or disordered eating",
+  "Biochemical Data": "• Hypoglycemia or hyperglycemia documented on regular basis associated with inconsistent carbohydrate intake\r• Wide variations in blood glucose levels",
+  "Anthropometric Measurements": null,
+  "Physical Examination Findings": null,
+  "Food/Nutrition History": "Reports or observations of:\r• Economic constraints that limit availability of appropriate foods\r• Carbohydrate intake that is different from recommended types or ingested on an irregular basis",
+  "Client History": "• Conditions associated with a diagnosis or treatment, e.g., diabetes mellitus, obesity, metabolic syndrome,\rhypoglycemia\r• Use of insulin or insulin secretagogues\r• Chronic use of medications that cause altered glucose levels, e.g., steroids, antidepressants, antipsychotics"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a5c"
+  },
+  "name": "Inadequate fiber intake",
+  "Definition": "INADEQUATE FIBER INTAKE (NI-53.5)|Lower intake of fiber-containing foods or substances compared to established reference standards or recommendations based upon physiological needs",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Lack of access to fiber-containing foods|• Food- and nutrition-related knowledge deficit|• Psychological causes, e.g., depression or disordered eating|• Prolonged adherence to a low-fiber or low-residue diet|• Difficulty chewing or swallowing high-fiber foods|• Economic constraints that limit availability of appropriate foods|• Inability or unwillingness to purchase or consume fiber-containing foods|• Inappropriate food preparation practices, e.g., reliance on overprocessed, overcooked foods",
+  "Biochemical Data": null,
+  "Anthropometric Measurements": null,
+  "Physical Examination Findings": null,
+  "Food/Nutrition History": "Reports or observations of:\r• Insufficient intake of fiber when compared to recommended amounts (38 g/day for men and 25 g/day for women; 21\rg/d for women >50 years and 31 g/d for men >50 years)",
+  "Client History": "• Conditions associated with a diagnosis or treatment, e.g., ulcer disease, inflammatory bowel disease, or short bowel\rsyndrome treated with a low-fiber diet\r• Low stool volume"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a5d"
+  },
+  "name": "Excessive fiber intake",
+  "Definition": "Higher intake of fiber-containing foods or substances compared to recommendations based upon patient/client condition",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Food- and nutrition-related knowledge deficit about desirable quantities of fiber for individual condition|• Harmful beliefs or attitudes about food or nutrition-related topics, e.g., obsession with bowel frequency and habits|• Lack of knowledge about appropriate fiber intake for condition|• Poor dentition, GI stricture or dysmotility|• Food preparation or eating patterns that involve only high-fiber foods to the exclusion of other nutrient-dense foods",
+  "Biochemical Data": null,
+  "Anthropometric Measurements": null,
+  "Physical Examination Findings": null,
+  "Food/Nutrition History": "Reports or observations of:\r• Fiber intake higher than tolerated or generally recommended for current medical condition",
+  "Client History": "• Conditions associated with a diagnosis or treatment, e.g., ulcer disease, irritable bowel syndrome, inflammatory bowel\rdisease, short bowel syndrome, diverticulitis, obstructive constipation, prolapsing hemorrhoids, gastrointestinal\rstricture, eating disorders, or mental illness with obsessive-compulsive tendencies\r• Nausea, vomiting, excessive flatulence, diarrhea, abdominal cramping, high stool volume or frequency that causes\rdiscomfort to the individual, obstruction, phytobezoar"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a5e"
+  },
+  "name": "Inadequate vitamin intake (specify)",
+  "Definition": "INADEQUATE VITAMIN INTAKE (SPECIFY) (NI-54.1)|Lower intake of vitamin-containing foods or substances compared to established reference standards or recommendations based upon physiological needs",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Physiologic causes, e.g., increased nutrient needs due to prolonged catabolic illness, disease state, malabsorption, or medications|• Lack of access to food, e.g., economic constraints, cultural or religious practices, restricting food given to elderly and/or children|• Food- and nutrition-related knowledge deficit concerning food sources of vitamins|• Psychological causes, e.g., depression or eating disorders",
+  "Biochemical Data": "• Vitamin A: serum retinol:  < 10\rg/dL (0.35mol/L)\r• Vitamin C : plasma concentrations < 0.2 mg/dL (11.4\rmol/L)\r• Vitamin D: ionized calcium < 3.9 mg/dL (0.98 mmol/L) with elevated parathyroid hormone, normal serum calcium, and\rserum phosphorus < 2.6 mg/dL (0.84 mmol/L)\r• Vitamin E: plasma alpha-tocopherol < 18\rmol/g (41.8mol/L)\r• Vitamin K: elevated prothrombin time; altered INR (without anti-coagulation therapy)\r• Thiamin: erythrocyte transketolase activity > 1.20 μg/mL/h\r• Riboflavin – erythrocyte glutathione reductase > 1.2 IU/gm hemoglobin\r• Niacin: N’methyl-nicotinamide excretion < 5.8 μmol/day\r• Vitamin B6: plasma pryrdoxal 5’phosphate <5 ng/mL (20 nmol/L)\r• Vitamin B12: serum concentration < 24.4 ng/dL (180 pmol/L); elevated homocysteine\r• Folic acid: serum concentration < 0.3\rg/dL (7 nmol/L); red cell folate < 315 nmol/L",
+  "Anthropometric Measurements": null,
+  "Client History": "• Prolonged use of substances known to increase vitamin requirements or reduce vitamin absorption\r• Conditions associated with a diagnosis or treatment, e.g., malabsorption as a result of celiac disease, short bowel syndrome,\ror inflammatory bowel\r• Certain environmental conditions, e.g., infants exclusively fed breast milk with limited exposure to sunlight (vitamin D)",
+  "Food/Nutrition History": "Reports or observations of:\r• Dietary history reflects inadequate intake of foods containing specific vitamins as compared to requirements or\rrecommended level\r• Dietary history reflects excessive consumption of foods that do not contain available vitamins, e.g., overprocessed,\rovercooked, or improperly stored foods"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a5f"
+  },
+  "name": "Excessive vitamin intake (specify)",
+  "Definition": "EXCESSIVE VITAMIN INTAKE (SPECIFY) (NI-54.2)|Higher intake of vitamin-containing foods or substances compared to established reference standards or recommendations based upon physiological needs",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Physiologic causes, e.g., decreased nutrient needs due to prolonged immobility or chronic renal disease|• Access to foods and supplements in excess of needs, e.g., cultural or religious practices, inappropriate food and supplements given to pregnant women,|elderly or children|• Food- and nutrition-related knowledge deficit concern ing food and supplemental sources of vitamins|• Psychological causes, e.g., depression or eating disorders|• Accidental overdose from oral and supplemental forms, enteral or parenteral sources",
+  "Biochemical Data": "• Vitamin D: ionized calcium > 5.4 mg/dL (1.35 mmol/L) with elevated parathyroid hormone, normal serum calcium, and\rserum phosphorus > 2.6 mg/dL (0.84 mmol/L)\r• Vitamin K: slowed prothrombin time or altered INR\r• Niacin: N-methyl nicotinamide excretion > 5.8 μmol/day\r• Vitamin B6: plasma pyridoxal 5’phosphate > 5  ng/mL (20 nmol/L)\r• Vitamin A: serum retinol concentration > 60 μg/dL (2.09μmol/L)",
+  "Anthropometric Measurements": null,
+  "Food/Nutrition History": "Reports or observations of:\r• History or measured intake reflects excessive intake of foods and supplements containing vitamins as compared to\restimated requirements, including fortified cereals, meal replacements, vitamin-mineral supplements, other dietary\rsupplements (e.g., fish liver oils or capsules), tube feeding, and/or parenteral solutions\r• Intake > Tolerable Upper Limits (UL) for vitamin A (as retinol ester, not as\r-carotene) is 600 μg/d for infants and\rtoddlers; 900 μg/d for children 4-8 yrs, 1,700 μg/d for children 9-13 yrs, 2,800 μg/d for children 14-18 yrs, and 3,000 μg/d\rfor adults\r• Intake greater than UL for vitamin D is 25 μg/day for infants and 50 μg/day for children and adults\r• Niacin: clinical, high-dose niacinamide (NA) use of 1 to 2 g, three times per day can have side effects",
+  "Client History": "• Conditions associated with a diagnosis or treatment, e.g., chronic liver or kidney diseases, heart failure, cancer"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a60"
+  },
+  "name": "Inadequate mineral intake (specify)",
+  "Definition": "INADEQUATE MINERAL INTAKE (SPECIFY) (NI-55.1)|Lower intake of mineral-containing foods or substances compared to established reference standards or recommendations based upon physiological needs",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Physiologic causes, e.g., increased nutrient needs due to prolonged catabolic illness, malabsorption, hyperexcretion, nutrient/drug and nutrient/nutrient|interaction, growth and maturation|• Lack of access to food, e.g., economic constraints, cultural or religious practices, restricting food given to elderly and/or children|• Food- and nutrition-related knowledge deficit concern ing food sources of minerals; misdiagnosis of lactose intolerance/lactase deficiency; perception of|conflicting nutrition messages from health professionals, inappropriate reliance on supplements|• Psychological causes, e.g., depression or eating disorders|• Environmental causes, e.g., inadequately tested nutrient bioavailability of fortified foods, beverages and supplements, inappropriate marketing of fortified|foods/beverages/supplements as a substitute for natural food source of nutrient(s)",
+  "Biochemical Data": "• Calcium: bone mineral content (BMC) below the young adult mean.  Hypocalciuria, serum 25(OH)D < 32 ng/mL\r• Phosphorus < 2.6 mg/dL (0.84 mmol/L)\r• Magnesium < 1.8 mg/dL (0.7 mmol/L)\r• Iron: hemoglobin < 130 g/L (males); < 120 g /L (females)\r• Iodine: urinary excretion < 100 μg /L (788 nmol/L)\r• Copper : serum copper < 64 μg /dL (10 μmol/L)",
+  "Anthropometric Measurements": "• Height loss",
+  "Food/Nutrition History": "Observations/reports of insufficient mineral intake from diet compared to recommended intake:\r• Food avoidance and/or elimination of whole food group(s) from diet\r• Lack of interest in food\r• Inappropriate food choices and/or chronic dieting behavior\r• Excessive Na intake, inadequate vitamin D intake/exposure",
+  "Client History": "• Conditions associated with a diagnosis or treatment of, e.g., malabsorption as a result of celiac disease, short bowel\rsyndrome, or inflammatory bowel disease\r• Other significant medical diagnoses and therapies\r• Estrogen status\r• Geographic latitude and history of UVB exposure/use of sunscreen\r• Change in living environment/independence\r• Use of popular press/internet as source of medical and/or nutrition information"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a61"
+  },
+  "name": "Excessive mineral intake (specify)",
+  "Definition": "EXCESSIVE MINERAL INTAKE (SPECIFY) (NI-55.2)|Higher intake of mineral from foods, supplements, medications or water, compared to established reference standards or recommendations based upon|physiological needs",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Food- and nutrition-related knowledge deficit|• Harmful beliefs/attitudes about food, nutrition, and nutrition-related topics|• Food faddism|• Accidental over-supplementation|• Overconsumption of a limited variety of foods|• Lack of knowledge about management of diagnosed genetic disorder that alters mineral homeostasis such as hemochromotosis (iron), Wilson’s Disease|(copper)|• Lack of knowledge about management of diagnosed disease state that requires mineral restriction such as cholestatic liver disease (copper and manganese)|and renal insufficiency (phosphorus, magnesium, potassium)",
+  "Biochemical Data": "Changes in appropriate laboratory values, such as:\r•\rTSH (iodine supplementation)\r•\rHDL (zinc supplementation)\r•\rserum ferritin and transferrin saturation (iron overload)\r• Hyperphosphatemia\r• Hypermagnesemia",
+  "Anthropometric Measurements": null,
+  "Food/Nutrition History": "Reports or observations of:\r• High intake of foods or supplements containing minerals compared to DRIs\r• Decreased appetite (zinc supplementation)",
+  "Client History": "• GI disturbances (iron, magnesium, copper,  zinc, selenium)\r• Copper-deficiency anemia (zinc)\r• Liver damage (copper, iron), enamel or skeletal fluorosis (fluoride)"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a62"
+  },
+  "name": "Swallowing difficulty",
+  "Definition": "Impaired movement of food and liquid from the mouth to the stomach",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Mechanical causes, e.g., inflammation, surgery, stricture, or oral, pharyngeal and esophageal tumors|• Motor causes, e.g., neurological or muscular disorders, such as, cerebral palsy, stroke, multiple sclerosis, scleroderma, prematurity",
+  "Biochemical Data": null,
+  "Anthropometric Measurements": null,
+  "Food/Nutrition History": "Observations or reports of:\r• Coughing, choking, prolonged chewing, pouching of food, regurgitation, facial expression changes during eating, prolonged\rfeeding time, drooling, noisy wet upper airway sounds, feeling of “food getting stuck,” pain while swallowing\r• Decreased food intake\r• Avoidance of foods\r• Mealtime resistance",
+  "Client History": "• Conditions associated with a diagnosis or treatment of dysphagia, achalasia\r• Radiological findings, e.g., abnormal swallowing studies\r• Repeated upper respiratory infections and or pneumonia"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a63"
+  },
+  "name": "Chewing (masticatory) difficulty",
+  "Definition": "Impaired ability to bite or chew food in preparation for swallowing",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Craniofacial malformations|• Oral surgery|• Neuromuscular dysfunction|• Partial or complete edentulism|• Soft tissue disease (primary or oral manifestations of a systemic disease)|• Xerostomia",
+  "Biochemical Data": null,
+  "Anthropometric Measurements": null,
+  "Client History": "• Conditions associated with a diagnosis or treatment, e.g., alcoholism; Alzheimer’s; head, neck or pharyngeal cancer;,\rcerebral palsy; cleft lip/palate; oral soft tissue infections (e.g., candidiasis, leukoplakia); lack of developmental readiness;\roral manifestations of systemic disease (e.g., rheumatoid arthritis, lupus, Crohn’s disease, penphigus vulgaris, HIV,\rdiabetes)\r• Recent major oral surgery\r• Wired jaw\r• Chemotherapy with oral side effects\r• Radiation therapy to oral cavity",
+  "Food/Nutrition History": "Reports or observations of:\r• Decreased intake of food\r• Alterations in food intake from usual\r• Decreased intake or avoidance of food difficult to form into a bolus, e.g., nuts,  whole pieces of meat, poultry, fish,  fruits,\rvegetables\r• Avoidance of foods of age-appropriate texture\r• Spitting food out or prolonged feeding time"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a64"
+  },
+  "name": "Breastfeeding difficulty",
+  "Definition": "Inability to sustain infant nutrition through breastfeeding",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|Infant:|• Difficulty latching on, e.g., tight frenulum|• Poor sucking ability|• Oral pain|• Malnutrition/malabsorption|• Lethargy, sleepiness|• Irritability|• Swallowing difficulty",
+  "Biochemical Data": "• Laboratory evidence of dehydration in infant",
+  "Anthropometric Measurements": "• Any weight loss or poor weight gain in infant",
+  "Client History": "• Conditions associated with a diagnosis or treatment (infant), e.g., cleft lip/palate, thrush, premature birth, malabsorption, infection\r• Conditions associated with a diagnosis or treatment (mother), e.g., mastitis, candidiasis, engorgement, history of breast surgery",
+  "Food/Nutrition History": "Observations or reports of (infant):\r• Coughing\r• Crying, latching on and off, pounding on breasts\r• Decreased feeding frequency/duration, early cessation of feeding, and/or feeding resistance\r• Infant lethargy\r• Hunger, lack of satiety after feeding\r• Fewer than six wet diapers in 24 hours\r• Infant vomiting or diarrhea\rObservations or reports of (mother):\r• Small amount of milk when pumping\r• Lack of confidence in ability to breastfeed\r• Doesn’t hear infant swallowing\r• Concerns regarding mother’s choice to breastfeed/lack of support\r• Insufficient knowledge of  breastfeeding or infant hunger/satiety signals\r• Lack of facilities or accommodations at place of employment or in community for breastfeeding"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a65"
+  },
+  "name": "Altered GI function",
+  "Definition": "Changes in ability to digest or absorb nutrients",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Alterations in GI anatomical structure, e.g., gastric bypass, Roux en Y|• Changes in the GI tract motility, e.g., gastroparesis|• Compromised GI tract function, e.g., celiac disease, Crohn’s disease, infection, radiation therapy|• Compromised function of related GI organs, e.g., pancreas, liver|• Decreased functional length of the GI tract, e.g., short bowel syndrome",
+  "Biochemical Data": "• Abnormal digestive enzyme and fecal fat studies\r• Abnormal hydrogen breath test, d-xylose test, stool culture, and gastric emptying and/or small bowel transit time",
+  "Anthropometric Measurements": "• Wasting due to malnutrition in severe cases",
+  "Client History": "• Anorexia, nausea, vomiting, diarrhea, steatorrhea, constipation, abdominal pain• Endoscopic or colonoscopic examination results, biopsy results• Conditions associated with a diagnosis or treatment, e.g., malabsorption, maldigestion, steatorrhea, constipation,diverticulitis, Crohn’s disease, inflammatory bowel disease, cystic fibrosis, celiac disease, irritable bowel syndrome,infection• Surgical procedures, e.g., esophagectomy, dilatation, gastrectomy, vagotomy, gastric bypass, bowel resections",
+  "Food/Nutrition History": "Observations or reports of:• Avoidance or limitation of total intake or intake of specific foods/food groups due to GI symptoms, e.g., bloating, cramping,pain, diarrhea, steatorrhea (greasy, floating, foul-smelling stools) especially following ingestion of food• Food and nutrition-related knowledge deficit, e.g., lack of information, incorrect information or noncompliance withmodified diet or medication schedule"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a66"
+  },
+  "name": "Impaired nutrient utilization",
+  "Definition": "Changes in ability to absorb or metabolize nutrients and bioactive substances",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Alterations in gastrointestinal anatomical structure|• Compromised function of the GI tract|• Compromised function of related GI organs, e.g., pancreas, liver|• Decreased functional length of the GI tract|• Metabolic disorders",
+  "Biochemical Data": "• Abnormal digestive enzyme and fecal fat studies\r• Abnormal hydrogen breath test, d-xylose test\r• Abnormal tests for inborn errors of metabolism",
+  "Anthropometric Measurements": "• Weight loss of 5% in 1 month, 10% in 6 months\r• Growth stunting or failure",
+  "Client History": "• Diarrhea, steatorrhea, abdominal pain\r• Endoscopic or colonoscopic examination results, biopsy results\r• Conditions associated with a diagnosis or treatment, e.g., malabsorption, maldigestion, cystic fibrosis, celiac disease,\rCrohn’s disease, infection, radiation therapy, inborn errors of metabolism\r• Surgical procedures, e.g., gastric bypass, bowel resection",
+  "Food/Nutrition History": "Observations or reports of:\r• Avoidance or limitation of total intake or intake of specific foods/food groups due to GI symptoms, e.g., bloating, cramping,\rpain, diarrhea, steatorrhea (greasy, floating, foul-smelling stools) especially following ingestion of food"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a67"
+  },
+  "name": "Altered nutrition-related laboratory values",
+  "Definition": "Changes due to body composition, medications, body system or genetics, or changes in ability to eliminate byproducts of digestive and metabolic processes",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Kidney, liver, cardiac, endocrine, neurologic, and/or pulmonary dysfunction|• Other organ dysfunction that leads to biochemical changes:",
+  "Biochemical Data": "Findings such as:\r• Increased AST, ALT, T. bili, serum ammonia (liver disorders)\r• Abnormal BUN, Cr, K, phosphorus, glomerular filtration rate (GFR) (kidney disorders)\r• Altered pO2 and pCO2 (pulmonary disorders)\r• Abnormal serum lipids\r• Abnormal plasma glucose levels\r• Other findings of acute or chronic disorders that are abnormal and of nutritional origin or consequence",
+  "Anthropometric Measurements": "• Rapid weight changes\r• Other anthropometric measures that are altered",
+  "Client History": "• Conditions associated with a diagnosis or treatment of, e.g., renal or liver disease, alcoholism, cardio-pulmonary disorders",
+  "Food/Nutrition History": "Observations or reports of:\r• Anorexia, nausea, vomiting\r• Inability to consume full meals due to shortness of breath or abdominal distention\r• Intake of foods high in or overall excess intake of protein, potassium, phosphorus, sodium, fluid\r• Inadequate intake of micronutrients\r• Food- and nutrition-related knowledge deficit, e.g., lack of information, incorrect information or noncompliance with\rmodified diet"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a68"
+  },
+  "name": "Food-medication interaction",
+  "Definition": "FOOD-MEDICATION INTERACTION (NC-2.3)|Undesirable/harmful interaction(s) between food and over-the-counter (OTC) medications, prescribed medications, herbals, botanicals, and/or dietary|supplements that diminishes, enhances, or alters effect of nutrients and/or medications",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Combined ingestion or administration of medication and food that results in undesirable/harmful interaction(s)",
+  "Biochemical Data": "• Alterations of biochemical tests based upon medication effect and patient/client condition",
+  "Anthropometric Measurements": "• Alterations of anthropometric measurements based upon medication effect and patient/client conditions, e.g., weight gain\rand corticosteroids",
+  "Food/Nutrition History": "Observations or reports of:\r• Intake that is problematic or inconsistent with OTC, prescribed drugs, herbals, botanicals, or dietary supplements such as:\r• fish oils and prolonged bleeding\r• coumadin, vitamin K-rich foods\r• high-fat diet while on cholesterol-lowering medications\r• iron supplements, constipation and low-fiber diet\r• Intake that does not support replacement or mitigation of OTC, prescribed drugs, herbals, botanicals, or dietary supplements\raffects such as potassium-wasting diuretics\r• Changes in appetite or taste",
+  "Client History": "• Multiple drugs (OTC, prescribed drugs, herbals, botanicals, or dietary supplements) that are known to have food medication\rinteractions\r• Medications that require nutrient supplementation that can not be accomplished via food intake such as isoniazid and\rVitamin B6"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a69"
+  },
+  "name": "Underweight",
+  "Definition": "Low body weight compared to established reference standards or recommendations",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Disordered eating pattern|• Excessive physical activity|• Harmful beliefs/attitudes about food, nutrition, and nutrition-related topics|• Inadequate energy intake|• Increased energy needs|• Limited access to food",
+  "Biochemical Data": null,
+  "Anthropometric Measurements": "• Weight for age less than 5th percentile for infants younger than 12 months\r• Decreased skinfold thickness and mid-arm muscle circumference (MAMC)\r• BMI < 18.5 (most adults)\r• BMI for older adults (over 65 years) < 23\r• BMI  < 5th percentile (children, 2-19 years)",
+  "Food/Nutrition History": "Reports or observations of:\r• Inadequate intake of food compared to estimated or measured needs",
+  "Client History": "• Malnutrition, vitamin/mineral deficiency\r• Illness or physical disability\r• Mental illness, dementia, confusion\r• Measured resting metabolic rate (RMR) higher than expected and/or estimated RMR\r• Medications that affect appetite, e.g., stimulants for attention deficit hyperactivity disorder\r• Athlete, dancer, or gymnast"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a6a"
+  },
+  "name": "Involuntary weight loss",
+  "Definition": "Decrease in body weigh t that is not planned or desired",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Physiologic causes, e.g., increased nutrient needs due to prolonged catabolic illness|• Lack of access to food, e.g., economic constraints, cultural or religious practices, restricting food given to elderly and/or children|• Prolonged hospitalization|• Psychological issues|• Lack of self-feeding ability",
+  "Biochemical Data": null,
+  "Anthropometric Measurements": "• Weight loss of 5% within 1 month, 7.5% in 3 months and 10% in 6 months",
+  "Physical Examination Findings": "• Fever\r• Increased heart rate\r• Increased respiratory rate\r• Loss of subcutaneous fat and muscle stores",
+  "Food/Nutrition History": "Reports or observations of:\r• Normal or usual intake in face of illness\r• Poor intake, change in eating habits, skipped meals\r• Change in way clothes fit, e.g., becoming looser",
+  "Client History": "• Conditions associated with a diagnosis or treatment, e.g., AIDS/HIV, burns, chronic obstructive pulmonary disease,\rhip/long bone fracture, infection, surgery, trauma, hyperthyroidism (pre-or untreated), some types of cancer or metastatic\rdisease (specify)\r• Medications associated with weight loss, such as certain antidepressants or cancer chemotherapy"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a6b"
+  },
+  "name": "Overweight/obesity",
+  "Definition": "Increased adiposity compared to established reference standards or recommendations",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Decreased energy needs|• Disordered eating pattern|• Excess energy intake|• Food- and nutrition-related knowledge deficit|• Not ready for diet/lifestyle change|• Physical inactivity|• Increased psychological/life stress",
+  "Biochemical Data": null,
+  "Anthropometric Measurements": "• BMI above normative standard for age and gender\r• Waist circumference above normative standard for age and gender\r• Increased skinfold thickness\r• Weight for height above normative standard for age and gender",
+  "Food/Nutrition History": "Reports or observations of:\r• Overconsumption of high-fat and/or calorically-dense food or beverage",
+  "Client History": "• Conditions associated with a diagnosis or treatment of, e.g., hypothyroidism, metabolic syndrome, eating disorder not\rotherwise specified, depression\r• Physical disability or limitation\r• History of physical, sexual, or emotional abuse\r• Measured resting metabolic rate (RMR) lower than expected and/or estimated RMR\r• Medications that impact RMR, e.g., midazolam, propranalol, glipizide"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a6c"
+  },
+  "name": "Involuntary weight gain",
+  "Definition": "Weight gain above that which is desired or planned",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Illness causing unexpected weight gain because of head trauma, immobility, paralysis or related condition|• Chronic use of medications known to cause weight gain, such as use of certain antidepressants, antipsychotics, corticosteroids, certain HIV medications|• Condition leading to excessive fluid weight gains",
+  "Biochemical Data": "• Decrease in serum albumin, hyponatremia, elevated fasting serum lipid levels, elevated fasting glucose levels, fluctuating\rhormone levels",
+  "Anthropometric Measurements": "• Weight history – noting any increase in weight greater than planned or desired, such as 10% in 6 months\r• Noticeable change in body fat distribution",
+  "Physical Examination Findings": "• Fat accumulation—excessive subcutaneous fat stores\r• Lipodystrophy associated with HIV medications—increase in dorsocervial fat, breast enlargement, increased abdominal\rgirth\r• Edema\r• Shortness of breath\r• Sensitivity to cold, constipation, and hair loss",
+  "Client History": "• Conditions associated with a diagnosis or treatment of asthma, psychiatric illnesses, rheumatic conditions, HIV/AIDS,\rCushing’s syndrome, obesity, Prader-Willi syndrome\r• Fluid administration above requirements\r• Change in sleep habits, insomnia\r• Muscle weakness\r• Fatigue\r• Medications associated with increased appetite",
+  "Food/Nutrition History": "Reports or observations of:\r• Intake consistent with estimated or measured energy needs\r• Changes in recent food intake level\r• Use of alcohol, narcotics\r• Extreme hunger with or without palpitations, tremor, and sweating\r• Physical inactivity or change in physical activity level"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a6d"
+  },
+  "name": "Food and nutrition-related knowledge deficit",
+  "Definition": "Incomplete or inaccurate knowledge about food, nutrition, or nutrition-related information and guidelines, e.g., nutrient requirements, consequences of food|behaviors, life stage requirements, nutrition recommendations, diseases and conditions, physiological function, or products",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Harmful beliefs/attitudes about food, nutrition, and nutrition-related topics|• Lack of pr ior exposure to information|• Language or cultural barrier impacting ability to learn information|• Learn ing disability, neurological or sensory impairment|• Prior exposure to incompatible information|• Prior exposure to incorrect information|• Unwilling to learn or uninterested in learning information",
+  "Biochemical Data": null,
+  "Anthropometric Measurements": null,
+  "Client History": "• Client or caregiver has no prior knowledge of need for food and nutrition-related recommendations\r• Conditions associated with a diagnosis or treatment of, e.g., mental illness\r• New medical diagnosis or change in existing diagnosis or condition",
+  "Food/Nutrition History": "Observations or reports of:\r• Verbalizes inaccurate or incomplete information\r• Provides inaccurate or incomplete written response to questionnaire/written tool, or is unable to read written tool\r• Demonstrates inability to apply food- and nutrition-related information, e.g., select food based on nutrition therapy or\rprepare infant feeding as instructed\r• Relates concerns about previous attempts to learn information\r• Verbalizes unwillingness to learn or disinterest in learning information"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a6e"
+  },
+  "name": "Harmful beliefs/attitudes about food or\rnutrition-related topics\rUSE WITH CAUTION TO BE SENSITIVE TO\rPATIENT CONCERNS",
+  "Definition": "Beliefs/attitudes or practices about food, nutrition, and nutrition-related topics that are incompatible with sound nutrition principles, nutrition care or|disease/condition (excluding disordered eating patterns and eating disorders)",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Disbelief in science-based food and nutrition information|• Exposure to incorrect food and nutrition information|• Eating behavior serves a purpose other than nourishment (e.g. Pica)|• Desire for a cure for a chronic disease through the use of alternative therapy",
+  "Biochemical Data": null,
+  "Anthropometric Measurements": null,
+  "Food/Nutrition History": "Reports or observations of:\r• Food fetish, Pica\r• Food faddism\r• Intake that reflects an imbalance of nutrients/food groups\r• Avoidance of foods/food groups (e.g., sugar, wheat, cooked foods)",
+  "Client History": "• Conditions associated with a diagnosis or treatment, e.g., obesity, diabetes, cancer, cardiovascular disease, mental illness"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a6f"
+  },
+  "name": "Not ready for diet/lifestyle change",
+  "Definition": "Lack of perceived value of nutrition-related behavior change compared to costs (consequences or effort required to make changes); conflict  with personal  value|system; antecedent to behavior change",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Harmful beliefs/attitudes about food, nutrition, and nutrition-related topics|• Cognitive deficits or inability to focus on dietary changes|• Lack of social support for implementing changes|• Denial of need to change|• Perception that time, interpersonal, or financial constraints prevent changes|• Unwilling or uninterested in learning information|• Lack of self-efficacy for making change or demoralization from previous failures at change",
+  "Biochemical Data": null,
+  "Anthropometric Measurements": null,
+  "Client History": "• New medical diagnosis, change in existing diagnosis or condition, or chronic non-compliance",
+  "Food/Nutrition History": "Reports or observations of:\r• Denial of need for food- and nutrition-related changes\r• Inability to understand required changes\r• Failure to keep appointments/schedule follow-up appointments or engage in counseling\r• Previous failures to effectively change target behavior\r• Defensiveness, hostility, or resistance to change\r• Lack of efficacy to make change or to overcome barriers to change"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a70"
+  },
+  "name": "Self monitoring deficit",
+  "Definition": "Lack of data recording to track personal progress",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Food- and nutrition-related knowledge deficit|• Lack of social support for implementing changes|• Lack of value for behavior change or competing values|• Perception that lack of resources, e.g., time, financial, or social support prevent self-monitoring|• Cultural barrier impacting ability to track personal progress|• Learn ing disability, neurological, or sensory impairment|• Prior exposure to incompatible information|• Not ready for diet/lifestyle change|• Unwilling or uninterested in tracking progress|• Lack of focus and attention to detail, difficulty with time management and/or organization",
+  "Biochemical Data": "• Recorded data inconsistent with biochemical data, e.g., dietary intake is not consistent with biochemical data",
+  "Anthropometric Measurements": "• Recorded data inconsistent with weight status or growth pattern data, e.g., dietary intake is not consistent with weight\rstatus or growth pattern",
+  "Client History": "• Diagnoses requiring self-monitoring, e.g., diabetes mellitus, obesity, new ostomy\r• New medical diagnosis or change in existing diagnosis or condition",
+  "Food/Nutrition History": "Reports or observations of:\r• Incomplete self-monitoring records, e.g., glucose, food, fluid intake, weight, physical activity, ostomy output records\r• Embarrassment or anger regarding need for self-monitoring\r• Uncertainty of how to complete monitoring records\r• Uncertainty regarding changes that could/should be made in response to data in self monitoring records\r• No self management equipment, e.g. no blood glucose monitor, pedometer"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a71"
+  },
+  "name": "Disordered eating pattern",
+  "Definition": "Beliefs, attitudes, thoughts and behaviors related to food, eating, and weight management, including classic eating disorders as well as less severe, similar|conditions that negatively impact health",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Obsessive desire to be thin related to familial, societal, biological/genetic, and/or genetic factors|• Weight regulation/preoccupation significantly in fluences self esteem",
+  "Biochemical Data": "• Elevated cholesterol, abnormal lipid profiles, hypoglycemia, hypokalemia [anorexia nervosa (AN)]\r• Hypokalemia and hypochloremic alkalosis [bulimia nervosa (BN)]\r• Hypotension, bradycardia, low body temperature, hyponatremia, anemia, hypothyroid, leucopenia, elevated BUN (AN)\r• Urine positive for ketones (AN)",
+  "Anthropometric Measurements": "• BMI < 17.5, arrested growth and development, failure to gain weight during period of expected growth, weight less than\r85% of expected weight (AN)\r• BMI > 29 [eating disorder not otherwise specified (EDNOS)]\r• Significant weight fluctuation (BN)",
+  "Food/Nutrition History": "Reports or observations of:\r• Avoidance of food or calorie-containing beverages (AN, BN)\r• Fear of foods or dysfunctional thoughts regarding food or food experiences (AN, BN)\r• Denial of hunger (AN)\r• Food preoccupation (AN, BN)\r• Knowledgeable about current diet fad (AN, BN, EDNOS)\r• Fasting (AN, BN)\r• Intake of larger quantity of food in a defined time period, a sense of lack of control over eating during the episode (BN,\rEDNOS)\r• Excessive physical activity (AN, BN, EDNOS)\r• Eating much more rapidly than normal, eating until feeling uncomfortably full; consuming large amounts of food when not\rfeeling physically hungry; eating alone because of being embarrassed by how much one is eating; feeling disgusted with\roneself, depressed, or very guilty after overeating (EDNOS)\r• Eats in private (AN, BN)\r• Irrational thoughts about food’s affect on the body (AN, BN, EDNOS)\r• Pattern of chronic dieting\r• Weight preoccupation\r• Excessive reliance on nutrition Terming and preoccupation with nutrient content of foods\r• Inflexibility with food selection"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a72"
+  },
+  "name": "Limited adherence to nutrition-related\rrecommendations",
+  "Definition": "Lack of nutrition-related changes as per intervention agreed upon by client or population",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Lack of social support for implementing changes|• Lack of value for behavior change or competing values|• Perception that time or financial constraints prevent changes|• Previous lack of success in making health-related changes|• Poor understanding of how and why to make changes|• Unwilling to applyor uninterested in applying information",
+  "Biochemical Data": "• Expected laboratory outcomes are not achieved",
+  "Anthropometric Measurements": "• Expected anthropometric outcomes are not achieved",
+  "Client History": null,
+  "Food/Nutrition History": "Reports or observations of:\r• Expected food/nutrition-related outcomes are not achieved\r• Inability to recall agreed upon changes\r• Failure to complete any agreed upon homework\r• Lack of compliance or inconsistent compliance with plan\r• Failure to keep appointments or schedule follow-up appointments\r• Lack of appreciation of the importance of making recommended nutrition-related changes\r• Uncertainty as to how to consistently apply food/nutrition information"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a73"
+  },
+  "name": "Undesirable food choices",
+  "Definition": "Food and/or beverage choices that are inconsistent with US Recommended Dietary Intake, US Dietary Guidelines, or with the My Pyramid or with targets|defined in the nutrition prescription or nutrition care process",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Lack of pr ior exposure to or misunderstanding of information|• Language, religious, or cultural barriers affecting ability to apply in formation|• Learn ing disabilities, neurological or sensory impairment|• High level of fatigue or other side effect of therapy|• Inadequate access to recommended foods|• Perception that financial constraints prevent selection of food choices consistent with recommendations|• Food allergies and aversions impeding food choices consistent with guidelines|• Lacks motivation and/or readiness to apply or support systems change|• Unwilling or uninterested in learning information|• Psychological limitations",
+  "Biochemical Data": "• Elevated lipid panel",
+  "Anthropometric Measurements": null,
+  "Client History": "• Conditions associated with a diagnosis or treatment, e.g., mental illness",
+  "Food/Nutrition History": "Reports or observations of:\r• Intake inconsistent with US Dietary Guidelines or My Pyramid (e.g., omission of entire nutrient groups, disproportionate\rintake such as juice for young children])\r• Inaccurate or incomplete understanding of the guidelines\r• Inability to apply guideline information\r• Inability (e.g. access) or unwillingness to select, or disinterest in selecting food consistent with the guidelines"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a74"
+  },
+  "name": "Physical inactivity",
+  "Definition": "Low level of activity/sedentary behavior to the extent that it reduces energy expenditure and impacts health",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Financial constraints that may prevent sufficien t level of activity|• Harmful beliefs/attitudes about physical activity|• In jury or lifestyle change that reduces physical activity or activities of daily living|• Lack of prior education about need for physical activity or how to incorporate exercise, e.g., physical disability, arthritis|• Lack of role models, e.g., for children|• Lack of social support and/or environmental space or equipment|• Lack of safe environment for physical activity|• Lack of value or competing values for behavior change|• Time constraints",
+  "Biochemical Data": null,
+  "Anthropometric Measurements": null,
+  "Client History": "• Low cardio-respiratory fitness and/or low muscle strength\r• Medical diagnoses that may be associated with or result in decreased activity, e.g., arthritis, chronic fatigue syndrome,\rmorbid obesity, knee surgery\r• Medications that cause somnolence and decreased cognition\r• Psychological diagnosis, e.g., depression, anxiety disorders",
+  "Food/Nutrition History": "Reports or observations of:\r• Infrequent, low-duration and/or low-intensity physical activity\r• Large amounts of sedentary activities, e.g., TV watching, reading, computer use in both leisure and work/school\r• Barriers to physical activity, e.g., time constraints, availability of a safe environment for exercise"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a75"
+  },
+  "name": "Excessive exercise",
+  "Definition": "An amount of exercise that exceeds that which is necessary to improve health and/or athletic performance",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Disordered eating|• Irrational beliefs/attitudes about food, nutrition, and fitness|• “Addictive” behaviors/personality",
+  "Biochemical Data": "• Elevated liver enzymes, e.g., LDH, SGOT\r• Altered micronutrient status, e.g., decreased serum ferritin, zinc, and IGF-binding protein\r• Increased hematocrit\r• Suppressed immune function\r• Possibly elevated cortisol levels",
+  "Anthropometric Measurements": "• Weight loss, arrested growth and development, failure to gain weight during period of expected growth (related usually to\rdisordered eating)",
+  "Client History": "• Conditions associated with a diagnosis or treatment of, e.g., anorexia nervosa, bulimia nervosa, binge eating, eating disorder\rnot otherwise specified, amenorrhea\r• Evidence of addictive, obsessive, or compulsive tendencies",
+  "Food/Nutrition History": "Reports or observations of:\r• Continued/repeated high levels of exercise exceeding levels necessary to improve health and/or athletic performance\r• Exercise daily without rest/rehabilitation days\r• Exercise while injured/sick\r• Forsaking family, job, social responsibilities to exercise"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a76"
+  },
+  "name": "Inability of lack of desire to manage self care",
+  "Definition": "Lack of capacity or unwillingness to implement methods to support healthful food- and nutrition-related behavior",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Food- and nutrition-related knowledge deficit|• Lack of caretaker or social support for implementing changes|• Lack of developmental readiness to perform self management tasks, e.g. pediatrics|• Lack of value or competing values for behavior change|• Perception that lack of resources (time, financial, support persons) prevent self care|• Cultural beliefs and practices|• Learn ing disability, neurological or sensory impairment|• Prior exposure to incompatible information|• Not ready for diet/lifestyle change|• Unwilling or uninterested in learning/applying information|• No self-management tools or decision guides",
+  "Biochemical Data": null,
+  "Anthropometric Measurements": null,
+  "Client History": "• Diagnoses that are associated with self management, e.g., diabetes mellitus, obesity, cardiovascular disease, renal or liver\rdisease\r• Conditions associated with a diagnosis or treatment, e.g., cognitive or emotional impairment\r• New medical diagnosis or change in existing diagnosis or condition",
+  "Food/Nutrition History": "Reports or observations of:\r• Inability to interpret data or self-management tools\r• Embarrassment or anger regarding need for self-monitoring\r• Uncertainty regarding changes that could/should be made in response to data in self-monitoring records"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a77"
+  },
+  "name": "Impaired ability to prepare foods/meals",
+  "Definition": "Cognitive or physical impairment that prevents preparation of foods/meals",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Learn ing disability, neurological or sensory impairment|• Loss of mental or cognitive ability, e.g., dementia|• Physical disability|• High level of fatigue or other side effect of therapy",
+  "Biochemical Data": null,
+  "Anthropometric Measurements": null,
+  "Food/Nutrition History": "Observations or reports of:\r• Decreased overall intake\r• Excessive consumption of convenience foods, pre-prepared meals, and foods prepared away from home resulting in an\rinability to adhere to nutrition prescription\r• Uncertainty regarding appropriate foods to prepare based upon nutrition prescription\r• Inability to purchase and transport foods to one’s home",
+  "Client History": "• Conditions associated with a diagnosis or treatment, e.g., cognitive impairment, cerebral palsy, paraplegia, sight\rimpairment, rigorous therapy regimen, recent surgery"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a78"
+  },
+  "name": "Poor nutrition quality of life",
+  "Definition": "Diminished NQOL scores related to food impact, self image, psychological factors, social/interpersonal factors, physical factors, or self-efficacy",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems.|• Food- and nutrition knowledge-related deficit|• Not ready for diet/lifestyle change|• Negative impact of current or previous medical nutrition therapy (MNT)|• Food or activity behavior-related difficulty|• Poor self-efficacy|• Altered body image|• Food insecurity|• Lack of social support for implementing changes",
+  "Biochemical Data": null,
+  "Anthropometric Measurements": null,
+  "Client History": "• New medical diagnosis or change in existing diagnosis or condition\r• Recent other lifestyle or life changes, e.g., quit smoking, initiated exercise, work change, home relocation",
+  "Food/Nutrition History": "Reports or observations of:\r• Unfavorable NQOL rating\r• Frustration or dissatisfaction with MNT recommendations\r• Inaccurate or incomplete information related to MNT recommendations\r• Inability to change food- or activity-related behavior\r• Concerns about previous attempts to learn information\r• Unwillingness or disinterest in learning information"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a79"
+  },
+  "name": "Self feeding difficulty",
+  "Definition": "Impaired actions to place food or beverages in mouth",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Inability to grasp cups and utensils for self-feeding|• Inability to support and/or control head and neck|• Lack of coordination of hand to mouth|• Limited physical strength or range of motion|• Inability to bend elbow or wrist|• Inability to sit with hips square and back straight|• Limited access to foods conducive for self-feeding|• Limited vision|• Reluctance or avoidance of self feeding",
+  "Biochemical Data": null,
+  "Anthropometric Measurements": null,
+  "Client History": "• Conditions associated with a diagnosis or treatment of, e.g., neurological disorders, Parkinson’s disease, Alzheimer’s\rdisease, Tardive dyskinesia, multiple sclerosis, stroke, paralysis, developmental delay\r• Physical limitations, e.g., fractured arms, traction, contractures\r• Surgery requiring recumbent position\r• Dementia/organic brain syndrome\r• Dysphagia\r• Weight loss\r• Shortness of breath\r• Tremors",
+  "Food/Nutrition History": "Reports or observations of:\r• Being provided with foods that may not be conducive to self-feeding, e.g., peas, broth-type soups\r• Poor lip closure, drooling\r• Dropping of cups, utensils\r• Emotional distress, anxiety, or frustration surrounding mealtimes\r• Failure to recognize foods\r• Forgets to eat\r• Inappropriate use of food\r• Refusal to eat or chew\r• Dropping of food from utensil (splashing and spilling of food) on repeated attempts to feed\r• Utensil biting"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a7a"
+  },
+  "name": "Intake of unsafe food",
+  "Definition": "Intake of food and/or fluids intentionally or unintentionally contaminated with toxins, poisonous products, infectious agents, microbial agents, additives,|allergens, and/or agents of bioterrorism",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Lack of knowledge about potentially unsafe food|• Lack of knowledge about proper food/feeding, storage and preparation, e.g., infant and enteral formula, or breast milk|• Exposure to contaminated water or food, e.g., community outbreak of illness documen ted by surveillance and/or response agency|• Mental illness, confusion or altered awareness|• Inadequate food storage equipment/facilities, e.g., refrigerator|• Inadequate safe food supply, e.g., inadequate access to markets with safe, uncontaminated food",
+  "Biochemical Data": "• Positive stool culture for infectious causes, such as listeria, salmonella, hepatitis A, E. coli, cyclospora\r• Toxicology reports for drugs, medicinals, poisons in blood or food samples",
+  "Anthropometric Measurements": null,
+  "Physical Examination Findings": "• Evidence of dehydration, e.g., dry mucous membranes, damaged tissues",
+  "Client History": "• Conditions associated with a diagnosis or treatment of, e.g., food borne illness, such as, bacterial, viral, and parasitic\rinfection, mental illness, dementia\r• Poisoning by drugs, medicinals, or biological substances\r• Poisoning from poisonous food stuffs or poisonous plants\r• Diarrhea, cramping, bloating, fever, nausea, vomiting, vision problems, chills, dizziness, headache\r• Cardiac, neurologic, respiratory changes",
+  "Food/Nutrition History": "Observations/reports of intake of potential unsafe foods (e.g., pregnant and lactating women):\r• Mercury content of fish and in non-food items\r• Raw eggs, unpasteurized milk products, soft cheeses, undercooked meats (infants, children, immunocompromised\rpersons, pregnant and lactating women, and elderly)\r• Wild plants, berries, and mushrooms\rObservations/reports of unsafe food/feeding or storage and preparation practices (enteral and infant formula, or breast milk)"
+},{
+  "_id": {
+    "$oid": "5eb11a6b58a16794f9bb9a7b"
+  },
+  "name": "Limited access to food",
+  "Definition": "Diminished ability to acquire food from sources (e.g., shopping, gardening, meal delivery), due to financial constraints, physical impairment, caregiver support,|or unsafe living conditions (e.g. crime hinders travel to grocery store). Limitation to food because of concerns about weight or aging.",
+  "Etiology": "Factors gathered during the nutrition assessment process that contribute to the existence or the maintenance of pathophysiological, psychosocial, situational,|developmental, cultural, and/or environmental problems:|• Caregiver intentionally or unintentionally not providing access to food, e.g., unmet needs for food or eating assistance, abuse/neglect|• Community and geographical constraints for shopping and transportation|• Lack of financial resources or lack of access to financial resources to purchase sufficient food|• Limited or absent community supplemental food programs, e.g., food pantry, shelter|• Failure to participate in food programs such as WIC, National School Lunch Program, food stamps|• Physical or psychological limitations that diminish ability to shop, e.g., walking, sight, mental/emotional health",
+  "Biochemical Data": "• Indicators of macronutrient or vitamin/mineral status",
+  "Anthropometric Measurements": "• Growth failure, based on National Center for Health Statistics (NCHS) growth standards\r• Underweight (BMI < 18.5)",
+  "Client History": "• Malnutrition, vitamin or mineral deficiency\r• Illness or physical disability\r• Conditions associated with a diagnosis or treatment, e.g., mental illness, dementia\r• Lack of suitable support systems",
+  "Food/Nutrition History": "Reports or observations of:\r• Food faddism\r• Belief that aging can be slowed by dietary limitations and extreme exercise\r• Hunger\r• Inadequate intake of food and/or specific nutrients\r• Limited supply of food in home\r• Limited variety of foods"
+}]

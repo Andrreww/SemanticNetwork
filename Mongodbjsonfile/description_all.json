@@ -1,0 +1,451 @@
+[{
+  "_id": {
+    "$oid": "5e98095ae7b9acfe8f68ed7c"
+  },
+  "name": "acid-reflux-ger-gerd-adults",
+  "definition": "Gastroesophageal reflux (GER) happens when your stomach contents come back up into your esophagus causing heartburn (also called acid reflux). Gastroesophageal reflux disease (GERD) is a long-lasting and more serious form of GER.",
+  "symptoms-causes": "The most common symptom of gastroesophageal reflux disease (GERD) is persistent heartburn, also called acid reflux. GERD happens when your lower esophageal sphincter becomes weak or relaxes when it shouldn’t.",
+  "diagnosis": "Your doctor diagnoses gastroesophageal reflux (GER) and gastroesophageal reflux disease (GERD) by reviewing your symptoms and medical history. If your heartburn or other symptoms don’t improve with lifestyle changes and medication, you may need testing.​​",
+  "treatment": "Depending on the severity of your heartburn and other symptoms, treatment for gastroesophageal reflux disease (GERD) may include lifestyle changes, medicines, or surgery.​",
+  "diet": "You can reduce your gastroesophageal reflux disease (GERD) symptoms by changing your diet and avoiding foods and drinks that make your symptoms worse.​"
+},{
+  "_id": {
+    "$oid": "5e98095ce7b9acfe8f68ed7d"
+  },
+  "name": "acid-reflux-ger-gerd-children-teens",
+  "definition": "Gastroesophageal reflux (GER) happens when stomach contents come back up into the esophagus causing heartburn (also called acid reflux). Gastroesophageal reflux disease (GERD) is a more serious and long-lasting form of GER.",
+  "symptoms-causes": "The most common symptom of gastroesophageal reflux disease (GERD) in children 12 years and older is regular heartburn (also called acid reflux). GERD happens when a person’s lower esophageal sphincter becomes weak or relaxes when it shouldn’t.",
+  "diagnosis": "If a child’s gastroesophageal reflux (GER) symptoms such as heartburn don’t improve, he or she may need testing for a gastroesophageal reflux disease (GERD) diagnosis.",
+  "treatment": "Treatment for gastroesophageal reflux disease (GERD) depends on the severity of a child or teen’s symptoms and may include lifestyle changes, medicines, or surgery.",
+  "diet": "A child or teen can reduce gastroesophageal reflux (GER) by avoiding foods and drinks that make his or her symptoms worse."
+},{
+  "_id": {
+    "$oid": "5e98095ee7b9acfe8f68ed7e"
+  },
+  "name": "acid-reflux-ger-gerd-infants",
+  "definition": "Gastroesophageal reflux (GER) happens when stomach contents come back up into the esophagus causing heartburn. Gastroesophageal reflux disease (GERD) is a more serious and long-lasting form of GER and may prevent an infant from feeding.",
+  "symptoms-causes": "The main symptom of gastroesophageal reflux disease (GERD) in infants is spitting up more than they normally do. Other symptoms include colic, vomiting, and refusing to eat. GERD happens when an infant’s lower esophageal sphincter is not fully developed.",
+  "diagnosis": "If an infant’s GER symptoms don’t improve or if they come back frequently, he or she may need testing for GERD. Tests may include an upper GI endoscopy, an upper GI series, or esophageal pH monitoring.",
+  "treatment": "Treatment for gastroesophageal reflux disease (GERD) depends on the infant’s symptoms and age and may involve feeding changes, medicines, or surgery.",
+  "diet": "If feeding changes don’t help an infant’s gastroesophageal reflux disease (GERD) symptoms, a doctor may suggest a higher-calorie formula or tube feedings."
+},{
+  "_id": {
+    "$oid": "5e98095fe7b9acfe8f68ed7f"
+  },
+  "name": "appendicitis",
+  "definition": "Appendicitis is inflammation of your appendix.",
+  "symptoms-causes": "The most common symptom of appendicitis is pain in your abdomen.",
+  "diagnosis": "Health care professionals can diagnose most cases of appendicitis by taking your medical history, performing a physical exam, and through an imaging test.",
+  "treatment": "Doctors typically treat appendicitis with antibiotics and surgery to remove the appendix.",
+  "diet": "Researchers have not found that eating, diet, and nutrition cause or prevent appendicitis."
+},{
+  "_id": {
+    "$oid": "5e980961e7b9acfe8f68ed80"
+  },
+  "name": "barretts-esophagus",
+  "definition": "Barrett's esophagus is a condition in which tissue that is similar to the lining of your intestine replaces the tissue lining your esophagus. People with Barrett's esophagus may develop a rare cancer called esophageal adenocarcinoma.",
+  "symptoms-causes": "Experts don't know the exact cause of Barrett's esophagus. However, gastroesophageal reflux disease (GERD) increases your chances of developing the condition.",
+  "diagnosis": "Doctors diagnose Barrett's esophagus with an upper gastrointestinal (GI) endoscopy and a biopsy.",
+  "treatment": "Treatment options for Barrett's esophagus include repeated surveilleance endoscopy, endoscopic ablative therapies, endoscopic mucosal resection, and surgery.",
+  "diet": "Your diet can relieve symptoms of gastroesophageal reflux, but there is no evidence that what you eat prevents Barrett's esophagus."
+},{
+  "_id": {
+    "$oid": "5e980962e7b9acfe8f68ed81"
+  },
+  "name": "bowel-control-problems-fecal-incontinence",
+  "definition": "Fecal incontinence, also called accidental bowel leakage, is the accidental passing of solid or liquid stools from your anus. You may have a strong urge to have a bowel movement and not be able to control it. You may have bowel leakage and not know it.",
+  "symptoms-causes": "The symptoms of fecal incontinence include a strong urge for a bowel movement and not being able to control it, and passing solid or liquid stool without knowing it. Fecal incontinence has many causes, including digestive tract disorders and chronic diseases.",
+  "diagnosis": "Doctors use your medical history, a physical exam, and tests to diagnose fecal incontinence and its causes. Your doctor will ask specific questions about your symptoms. Play an active role in your diagnosis by talking openly and honestly with your doctor.",
+  "treatment": "How doctors treat fecal incontinence depends on the cause. Your doctor can also recommend ways to manage and treat fecal incontinence yourself. Play an active role in your treatment by talking openly and honestly with your doctor.",
+  "diet": "Changing what you eat can help prevent or relieve your fecal incontinence. Keeping a food diary can help you and your doctor find out which foods and drinks make your symptoms better or worse."
+},{
+  "_id": {
+    "$oid": "5e980964e7b9acfe8f68ed82"
+  },
+  "name": "celiac-disease",
+  "definition": "Celiac disease is a digestive disorder that damages the small intestine. People with celiac disease cannot eat gluten, a protein found in wheat, barley, and rye. The disease can cause long-term digestive problems and keep you from getting nutrients you need.",
+  "symptoms-causes": "If you have celiac disease, you may experience digestive symptoms or symptoms in other parts of your body. Digestive symptoms are more common in children than adults. Some people with celiac disease have no symptoms.",
+  "diagnosis": "Your doctor may diagnose celiac disease with a medical and family history, a physical exam, blood tests, an intestinal biopsy, a skin biopsy, and genetic tests. Doctors in the United Stated do not routinely screen people for celiac disease.",
+  "treatment": "Doctors treat celiac disease by prescribing a gluten-free diet. Symptoms significantly improve for most people with celiac disease who follow a gluten-free diet. A dietitian can teach you how to avoid gluten while following a healthy and nutritious diet.",
+  "diet": "Eating, diet, and nutrition play a major role in treating celiac disease. You should maintain a gluten-free diet by avoiding all products that contain gluten. You can maintain a well-balanced diet with a variety of foods that do not include gluten."
+},{
+  "_id": {
+    "$oid": "5e980965e7b9acfe8f68ed83"
+  },
+  "name": "chronic-diarrhea-children",
+  "definition": "Chronic diarrhea is passing loose, watery stools three or more times a day for at least 4 weeks. The diarrhea may be continual, or it may come and go. Chronic diarrhea can affect children of any age.",
+  "symptoms-causes": "Children with chronic diarrhea pass loose, watery stools three or more times a day for at least 4 weeks. They may also have other symptoms. Causes include infections of the digestive tract, food allergies and intolerances, and digestive tract disorders.",
+  "diagnosis": "To find the cause of a child’s chronic diarrhea, doctors may use information from the child’s medical and family history, a physical exam, or tests. Tests may include stool tests, blood tests, hydrogen breath tests, and fasting tests.",
+  "treatment": "How doctors treat chronic diarrhea in children depends on the cause. A doctor may prescribe medicines or recommend changes in what your child eats or drinks. In rare cases, a doctor may perform surgery to treat the cause of your child’s chronic diarrhea.",
+  "diet": "Eating, diet, and nutrition play a major role in chronic diarrhea in children. Depending on the cause, changing what your child eats can prevent, reduce, or stop chronic diarrhea. Your child’s doctor or a dietitian can recommend a healthy eating plan."
+},{
+  "_id": {
+    "$oid": "5e980967e7b9acfe8f68ed84"
+  },
+  "name": "colon-polyps",
+  "definition": "Colon polyps are growths on the lining of your colon and rectum. Most polyps are not cancerous, but some may develop into cancer over time. Removing polyps can help prevent colorectal cancer.",
+  "symptoms-causes": "Most people with colon polyps don’t have symptoms. Experts aren’t sure what causes colon polyps. Research suggests that certain factors, such as age and family history, can increase your chances of developing colon polyps.",
+  "diagnosis": "Doctors can find colon polyps only by using certain tests or procedures. Your doctor may take a medical and family history, perform a physical exam, or request a stool test or other tests.",
+  "treatment": "Doctors treat colon polyps by removing them. Doctors use special tools during a colonoscopy or flexible sigmoidoscopy to remove colon polyps.",
+  "diet": "Research suggests eating more fruits, vegetables, and other foods with fiber may lower your chances of developing colon polyps. Losing weight if you’re overweight and not gaining weight if you’re already at a healthy weight may also help prevent polyps."
+},{
+  "_id": {
+    "$oid": "5e980968e7b9acfe8f68ed85"
+  },
+  "name": "constipation",
+  "definition": "Constipation is a condition in which you may have fewer than three bowel movements a week; stools that are hard, dry, or lumpy; stools that are difficult or painful to pass; or a feeling that not all stool has passed. You usually can take steps to prevent or relieve constipation.",
+  "symptoms-causes": "If your constipation does not go away with self-care or if you have long-term constipation, speak with a doctor. You should see a doctor if you have constipation and either bleeding from your rectum, blood in your stool, continual pain in your abdomen, or another sign of a medical problem.",
+  "diagnosis": "Your doctor may use information from your medical and family history, a physical exam, or tests to find the cause of your constipation. If you’ve had constipation for a long time, your doctor may ask whether anyone in your family has a history of conditions that cause long-lasting constipation.",
+  "treatment": "Your health care professional may tell you that you may be able to treat your constipation or prevent it by making changes to what you eat and drink, being more active, or taking over-the-counter medicines. If these treatments don’t work, he or she may prescribe a medicine or suggest biofeedback or surgery.",
+  "diet": "Get enough fiber in your diet to help prevent and treat constipation. Talk with your health care professional to plan a diet with the right amount of fiber for you. Be sure to add fiber to your diet a little at a time so your body gets used to the change."
+},{
+  "_id": {
+    "$oid": "5e98096ae7b9acfe8f68ed86"
+  },
+  "name": "constipation-children",
+  "definition": "Your child may be constipated with fewer than two bowel movements a week; stools that are hard, dry, or lumpy; or stools that are difficult or painful to pass. Your child also may tell you that he or she feels that not all stool has passed.",
+  "symptoms-causes": "If your child’s constipation does not go away with at-home treatment, or if your child has had constipation for more than 2 weeks, talk with your child’s doctor.",
+  "diagnosis": "A doctor may use your child’s medical and family history, a physical exam, or medical tests to find the cause of his or her constipation. You may want track your child’s bowel movements and what his or her stools look like for several days or weeks before the doctor’s visit.",
+  "treatment": "Your child’s doctor may suggest changes to what your child eats and drinks to treat constipation, as well as changing bathroom habits. If these treatments don’t work, your child’s doctor may prescribe a medicine.",
+  "diet": "Have your child eat enough fiber to help prevent and treat constipation. Talk with your child’s doctor to plan a diet with the right amount of fiber for your family. Be sure to add fiber to your family’s diet a little at a time so everyone gets used to the change."
+},{
+  "_id": {
+    "$oid": "5e98096be7b9acfe8f68ed87"
+  },
+  "name": "crohns-disease",
+  "definition": "Crohn’s disease is a chronic, or long lasting, disease that causes inflammation and irritation in your digestive tract.",
+  "symptoms-causes": "The most common symptoms of Crohn’s disease are diarrhea, cramping and pain in your abdomen, and weight loss. Doctors aren’t sure what causes Crohn’s disease.",
+  "diagnosis": "Doctors typically do not use a single test to diagnose Crohn’s disease. You may need a combination of tests. Your doctor will also ask you about your medical history and your family history and will perform a physical exam.",
+  "treatment": "Doctors treat Crohn’s disease with medicines, bowel rest, and surgery. The goal of treatment is to decrease the inflammation in your intestines, to prevent flare-ups of your symptoms, and to keep you in remission.",
+  "diet": "Good nutrition can help you manage Crohn’s disease. Changing your diet can help reduce symptoms. Depending on your symptoms or medicines, your doctor may recommend a specific diet, such as a diet that is high calorie, lactose free, or low fat."
+},{
+  "_id": {
+    "$oid": "5e98096ce7b9acfe8f68ed88"
+  },
+  "name": "cyclic-vomiting-syndrome",
+  "definition": "Cyclic vomiting syndrome, or CVS, is a disorder that causes sudden, repeated attacks—called episodes—of severe nausea and vomiting. Episodes can last from a few hours to several days. Episodes alternate with longer periods of no symptoms.",
+  "symptoms-causes": "The main symptoms of cyclic vomiting syndrome are sudden, repeated attacks—called episodes—of severe nausea and vomiting. Episodes can last from a few hours to several days. Experts aren’t sure what causes cyclic vomiting syndrome.",
+  "diagnosis": "Doctors diagnose cyclic vomiting syndrome based on family and medical history, a physical exam, medical tests, and the pattern or cycle of symptoms. Medical tests can rule out other diseases and conditions that cause cyclic vomiting symptoms.",
+  "treatment": "How doctors treat cyclic vomiting syndrome depends on the phase. Your doctor may prescribe medicines to treat episodes, or to help prevent episodes or reduce their frequency. Your doctor may recommend ways to avoid or manage conditions and events that trigger episodes.",
+  "diet": "You can help prevent cyclic vomiting episodes by avoiding foods that may trigger them. Your diet will not help relieve episodes but will help you recover and keep you healthy. You should eat well-balanced and nutritious meals between episodes."
+},{
+  "_id": {
+    "$oid": "5e98096ee7b9acfe8f68ed89"
+  },
+  "name": "diarrhea",
+  "definition": "Diarrhea is loose, watery stools three or more times a day. Diarrhea may be acute, persistent, or chronic. Acute diarrhea is more common than persistent or chronic diarrhea. Complications of diarrhea are dehydration and malabsorption.",
+  "symptoms-causes": "The main symptom of diarrhea is passing loose, watery stools three or more times a day. You may also have other symptoms. Causes of diarrhea include infections, food allergies and intolerances, digestive tract problems, and side effects of medicines.",
+  "diagnosis": "If you have diarrhea for less than 4 days, your doctor typically won’t need to find the cause. If your diarrhea lasts longer or if you have other symptoms, your doctor may use your medical and family history, a physical exam, or tests to find the cause.",
+  "treatment": "In most cases, you can treat your diarrhea with over-the-counter medicines and by replacing lost fluids and electrolytes to prevent dehydration. Doctors may treat some causes of diarrhea with prescription medicines.",
+  "diet": "If you have diarrhea, you may lose your appetite. When your appetite returns, you can go back to eating your normal diet. Parents and caretakers should give children with diarrhea their usual diet and give infants breast milk or formula."
+},{
+  "_id": {
+    "$oid": "5e98096fe7b9acfe8f68ed8a"
+  },
+  "name": "diverticulosis-diverticulitis",
+  "definition": "Diverticulosis is a condition that occurs when small pouches, or sacs, form and push outward through weak spots in the wall of your colon. In diverticulitis, one or a few of the pouches in the wall of your colon become inflamed.",
+  "symptoms-causes": "Most people with diverticulosis do not have symptoms. Symptoms may include constipation, diarrhea, abdominal pain, or bloating. Diverticulitis most often causes abdominal pain, which is usually severe. Experts are not sure what causes these conditions.",
+  "diagnosis": "Your doctor may notice pouches in your colon wall while performing tests for other reasons. If you have symptoms that suggest diverticulosis or diverticulitis, your doctor may ask about your medical history and perform a physical exam and tests.",
+  "treatment": "Treatments for diverticulosis include fiber, medicines, and probiotics. Treatments for diverticulitis include rest, oral antibiotics, and a liquid diet. If your diverticulitis causes problems, you may need additional treatments.",
+  "diet": "If you have diverticulosis or if you have had diverticulitis in the past, your doctor may recommend eating more foods that are high in fiber. Some of the best sources of fiber include fruit; vegetables, particularly starchy ones; and whole grains."
+},{
+  "_id": {
+    "$oid": "5e980970e7b9acfe8f68ed8b"
+  },
+  "name": "dumping-syndrome",
+  "definition": "Dumping syndrome is a group of symptoms, such as diarrhea, nausea, and feeling light-headed or tired after a meal, that are caused by rapid gastric emptying. Rapid gastric emptying is a condition in which food moves too quickly from your stomach to your duodenum.",
+  "symptoms-causes": "Symptoms of early dumping syndrome occur within 30 minutes after a meal, while symptoms of late dumping syndrome occur 1 to 3 hours after a meal. The most common cause of rapid gastric emptying and dumping syndrome is surgery of the stomach or esophagus.",
+  "diagnosis": "Doctors typically diagnose dumping syndrome based on symptoms. Your doctor may also order tests, such as an oral glucose tolerance test or a gastric emptying scan, to confirm the diagnosis.",
+  "treatment": "Doctors treat dumping syndrome by recommending changes to how and what you eat, medicines, and, in some cases, surgery. Many people with dumping syndrome have mild symptoms that improve over time with simple changes in eating and diet.",
+  "diet": "The first step in treating dumping syndrome is changing how and what you eat. Your doctor may recommend changes such as eating six small meals a day; lying down after you eat a meal; and eating more protein, fiber, and fat."
+},{
+  "_id": {
+    "$oid": "5e980972e7b9acfe8f68ed8c"
+  },
+  "name": "food-poisoning",
+  "definition": "Food poisoning is an infection or irritation of your digestive tract that spreads through foods or drinks. Food poisoning is most often acute, and most people get better on their own without treatment. In some cases, food poisoning leads to serious complications, such as dehydration.",
+  "symptoms-causes": "Common symptoms of many types of food poisoning include diarrhea or bloody diarrhea, vomiting, pain in your abdomen, fever, and headache. Infections with viruses, bacteria, and parasites cause most food poisoning. Harmful chemicals also cause some cases of food poisoning.",
+  "diagnosis": "Doctors often diagnose food poisoning based on your symptoms. If your symptoms are mild and last only a short time, you typically won’t need tests. In some cases, a medical history, a physical exam, stool tests, and blood tests can help diagnose food poisoning.",
+  "treatment": "In most cases, you can treat food poisoning by replacing lost fluids and electrolytes to prevent dehydration. In some cases, over-the-counter or prescription medicines may help. You can prevent some food poisoning by properly storing, cooking, cleaning, and handling foods.",
+  "diet": "When you have food poisoning, you may lose your appetite for a short time. When your appetite returns, you can most often go back to eating your normal diet, even if you still have diarrhea. Most experts do not recommend fasting or following a restricted diet when you have diarrhea."
+},{
+  "_id": {
+    "$oid": "5e980973e7b9acfe8f68ed8d"
+  },
+  "name": "gas-digestive-tract",
+  "definition": "Gas is air in your digestive tract. Gas leaves your body through your mouth when you burp or through your anus when you pass gas. People may think that they burp or pass gas too often and that they have too much gas. However, having too much gas is rare.",
+  "symptoms-causes": "The most common symptoms of gas include burping, passing gas, bloating, and pain in your abdomen. Gas normally enters your digestive tract when you swallow air and when bacteria in your large intestine break down certain undigested foods.",
+  "diagnosis": "Doctors may diagnose the causes of gas with a medical history and physical exam. If your doctor suspects you may have a health condition, he or she may order more tests. Your doctor may ask you to keep a diary of your diet and gas symptoms.",
+  "treatment": "To reduce or prevent gas and gas symptoms, your doctor may suggest that you reduce swallowed air, quit smoking, make changes to your diet, or take medicines. Some over-the-counter medicines may reduce gas. In some cases, doctors prescribe medicines.",
+  "diet": "You may be able to reduce gas by avoiding or eating less of the foods that give you gas. You can use a food diary to help figure out which foods give you gas and how much of the foods you can handle. Talk with your doctor about changing your diet."
+},{
+  "_id": {
+    "$oid": "5e980975e7b9acfe8f68ed8e"
+  },
+  "name": "gastritis-gastropathy",
+  "definition": "Gastritis and gastropathy are conditions that affect the stomach lining, also known as the mucosa. In gastritis, the stomach lining is inflamed. In gastropathy, the stomach lining is damaged, but little or no inflammation is present.",
+  "symptoms-causes": "The majority of people with gastritis or gastropathy don’t have any symptoms. In some cases, gastritis and gastropathy cause symptoms of indigestion or of bleeding in the stomach.",
+  "diagnosis": "Helicobacter pylori",
+  "treatment": "infection is the most common cause of gastritis.",
+  "diet": "Your doctor may order an upper GI endoscopy with biopsies or other tests to diagnose gastritis or gastropathy, find the cause, and check for complications. Other tests may include blood, stool, and breath tests and an upper GI series."
+},{
+  "_id": {
+    "$oid": "5e980976e7b9acfe8f68ed8f"
+  },
+  "name": "gastrointestinal-bleeding",
+  "definition": "Gastrointestinal (GI) bleeding is any type of bleeding that starts in the GI tract. GI bleeding is a symptom of a disease or condition, rather than a disease or condition itself.",
+  "symptoms-causes": "The symptoms of GI bleeding depend on the location and how severe your bleeding is. Many different conditions can cause bleeding in your GI tract.",
+  "diagnosis": "To diagnose GI bleeding, a doctor will first find the site of the bleeding. Depending on your symptoms, your doctor will order one or more diagnostic tests to confirm whether you have bleeding in your GI tract.",
+  "treatment": "Treatment of bleeding in your GI tract depends on the cause or location of your bleeding. Doctors can prevent GI bleeding by treating the conditions that cause the bleeding.",
+  "diet": "You can help prevent GI bleeding by avoiding certain foods and habits. Do not drink alcoholic beverages if you have GI bleeding."
+},{
+  "_id": {
+    "$oid": "5e980978e7b9acfe8f68ed90"
+  },
+  "name": "gastroparesis",
+  "definition": "Gastroparesis, also called delayed gastric emptying, is a disorder that slows or stops the movement of food from your stomach to your small intestine, even though there is no blockage in the stomach or intestines.",
+  "symptoms-causes": "The symptoms of gastroparesis may include feeling full shortly after starting a meal, feeling full long after eating a meal, nausea, and vomiting. Diabetes is the most common known cause of gastroparesis.",
+  "diagnosis": "Doctors diagnose gastroparesis based on your medical history, a physical exam, symptoms, and medical tests, such as tests to measure stomach emptying. Your doctor may use medical tests to look for gastroparesis complications.",
+  "treatment": "How doctors treat gastroparesis depends on the cause, how bad your symptoms and complications are, and how well you respond to different treatments. If diabetes is causing your gastroparesis, your doctor will help you control your blood glucose levels.",
+  "diet": "What you eat can help relieve gastroparesis symptoms. What you eat can also help make sure you get the right amount of nutrients, calories, and liquids if you are malnourished or dehydrated due to gastroparesis."
+},{
+  "_id": {
+    "$oid": "5e980979e7b9acfe8f68ed91"
+  },
+  "name": "hemorrhoids",
+  "definition": "Hemorrhoids, also called piles, are swollen and inflamed veins around your anus or in your lower rectum. External hemorrhoids form under the skin around the anus. Internal hemorrhoids form in the lining of the anus and lower rectum.",
+  "symptoms-causes": "Symptoms of hemorrhoids depend on the type of hemorrhoid. External hemorrhoid symptoms include anal itching. Internal hemorrhoid symptoms include rectal bleeding. Certain toilet habits, constipation, a low-fiber diet, and aging may cause hemorrhoids.",
+  "diagnosis": "Your doctor can often diagnose hemorrhoids based on your medical history and a physical exam. Your doctor will check the area around your anus, perform a digital rectal exam, and may use procedures to look inside your anus and rectum.",
+  "treatment": "You can treat your hemorrhoids at home by changing your diet and toilet habits. You can use medicines to relieve mild pain, swelling, and itching. Doctors treat hemorrhoids with procedures during an office visit or in an outpatient center or a hospital.",
+  "diet": "Eating high-fiber foods can make your stools softer and easier to pass and can help treat and prevent hemorrhoids. Drinking water and other liquids, such as fruit juices and clear soups, can help the fiber in your diet work better."
+},{
+  "_id": {
+    "$oid": "5e98097ae7b9acfe8f68ed92"
+  },
+  "name": "indigestion-dyspepsia",
+  "definition": "Indigestion is a general term that describes a group of gastrointestinal symptoms that occur together, including pain, a burning feeling, or discomfort in your upper abdomen; feeling full too soon while eating; and feeling uncomfortably full after eating.",
+  "symptoms-causes": "Indigestion has many symptoms. You may have more than one symptom at the same time. Sometimes you may also have heartburn, which is a separate condition. Lifestyle, medicines, health problems, and digestive tract diseases can cause indigestion.",
+  "diagnosis": "Your doctor diagnoses indigestion based on your medical history, a physical exam, upper gastrointestinal (GI) endoscopy, and other tests. These other tests include imaging tests,",
+  "treatment": "H. pylori",
+  "diet": "testing, blood tests, stool tests, and urea breath tests."
+},{
+  "_id": {
+    "$oid": "5e98097ce7b9acfe8f68ed93"
+  },
+  "name": "irritable-bowel-syndrome",
+  "definition": "Irritable bowel syndrome (IBS) is a group of symptoms that occur together, including repeated pain in your abdomen and changes in your bowel movements, which may be diarrhea, constipation, or both. With IBS, you have these symptoms without any visible signs of damage or disease in your digestive tract.",
+  "symptoms-causes": "The most common symptoms of irritable bowel syndrome (IBS) are pain in your abdomen, often related to your bowel movements, and changes in your bowel movements. These changes may be diarrhea, constipation, or both, depending on what type of IBS you have. Doctors aren’t sure what causes IBS.",
+  "diagnosis": "To diagnose irritable bowel syndrome (IBS), doctors review your symptoms and your medical and family history and perform a physical exam. Your doctor will look for a certain pattern in your symptoms. In some cases, doctors may order tests to rule out other health problems.",
+  "treatment": "Doctors may treat irritable bowel syndrome (IBS) by recommending changes in what you eat and other lifestyle changes, medicines, probiotics, and mental health therapies. You may have to try a few treatments to see what works best for you. Your doctor can help you find the right treatment plan.",
+  "diet": "Your doctor may recommend changes in your diet to help treat symptoms of irritable bowel syndrome. Changes may include eating more fiber, avoiding gluten, or following a special diet called the low FODMAP diet. Different changes may help different people with IBS."
+},{
+  "_id": {
+    "$oid": "5e98097ee7b9acfe8f68ed94"
+  },
+  "name": "irritable-bowel-syndrome-children",
+  "definition": "Irritable bowel syndrome (IBS) is a group of symptoms that occur together, including repeated pain in the abdomen and changes in bowel movements, which may be diarrhea, constipation, or both. With IBS, a child has these symptoms without any visible signs of damage or disease in the digestive tract.",
+  "symptoms-causes": "In children with irritable bowel syndrome (IBS), the most common symptoms are pain in the abdomen, often related to bowel movements, and changes in bowel movements. These changes may be diarrhea, constipation, or both, depending on what type of IBS a child has. Doctors aren’t sure what causes IBS.",
+  "diagnosis": "To diagnose irritable bowel syndrome (IBS), doctors review a child’s symptoms and medical and family history and perform a physical exam. In some cases, doctors may order tests to rule out other health problems.",
+  "treatment": "Doctors may treat irritable bowel syndrome (IBS) in children by recommending changes in what a child eats, mental health therapies, probiotics, and medicines. A child may have to try a few treatments to see what works best.",
+  "diet": "If your child has IBS, talk with your child’s doctor or dietitian before making changes to your child’s diet to manage IBS symptoms. Research suggests that some children with IBS may benefit from reducing the amount of FODMAPs—carbohydrates that are hard to digest—in their diet."
+},{
+  "_id": {
+    "$oid": "5e98097fe7b9acfe8f68ed95"
+  },
+  "name": "lactose-intolerance",
+  "definition": "If you have lactose intolerance, you have digestive symptoms—such as bloating, diarrhea, and gas—after you consume foods or drinks that contain lactose. Lactose intolerance may affect your health if it keeps you from getting enough nutrients, such as calcium and vitamin D.",
+  "symptoms-causes": "Symptoms of lactose intolerance may include bloating, diarrhea, gas, nausea, and pain in your abdomen. Lactose intolerance is caused by lactose malabsorption, a condition in which your small intestine makes low levels of lactase and can’t digest all the lactose you eat or drink.",
+  "diagnosis": "To diagnose lactose intolerance, your doctor will ask about your symptoms, family and medical history, and eating habits. Your doctor may perform a physical exam and tests to help diagnose lactose intolerance or to check for other health problems.",
+  "treatment": "You can manage lactose intolerance symptoms by changing your diet to limit or avoid foods that contain lactose. Some people may only need to limit lactose, while others may need to avoid lactose altogether. Using lactase products can help some people manage their symptoms.",
+  "diet": "Talk with your doctor or a dietitian about changing your diet to help manage lactose intolerance symptoms and make sure you get enough nutrients. You may need to reduce the amount of lactose you eat or drink. Most people with lactose intolerance can eat or drink some lactose without symptoms."
+},{
+  "_id": {
+    "$oid": "5e980980e7b9acfe8f68ed96"
+  },
+  "name": "pancreatitis",
+  "definition": "Pancreatitis is inflammation of the pancreas. Acute pancreatitis is short term and may go away in a few days with treatment. Chronic, or long-lasting, pancreatitis can get worse over time and cause lasting damage.",
+  "symptoms-causes": "Pancreatitis symptoms include pain in your upper abdomen that may extend to your back, nausea and vomiting, fever, rapid pulse, and weight loss. Causes include gallstones, heavy alcohol use, medicines, and genetic disorders of the pancreas.",
+  "diagnosis": "Doctors use your medical history, a physical exam, and lab and imaging tests to diagnose pancreatitis and to find out its causes.",
+  "treatment": "Treatment for pancreatitis may include a hospital stay for intravenous (IV) fluids, pain medicine, and other medicines. Surgery is sometimes needed to treat complications.",
+  "diet": "If you have pancreatitis, your health care professional may suggest that you eat a low-fat diet and will advise you not to drink alcoholic beverages."
+},{
+  "_id": {
+    "$oid": "5e980981e7b9acfe8f68ed97"
+  },
+  "name": "peptic-ulcers-stomach-ulcers",
+  "definition": "A peptic ulcer (stomach ulcer) is a sore on the lining of your stomach or duodenum. People who take NSAIDs such as aspirin and ibuprofen long-term or are infected with the bacteria",
+  "symptoms-causes": "H. pylori",
+  "diagnosis": "are most likely to develop peptic ulcers.",
+  "treatment": "A dull or burning pain in the stomach is the most common symptom of peptic ulcers (stomach ulcers). Causes include long-term use of NSAIDs, an infection with",
+  "diet": "H.pylori"
+},{
+  "_id": {
+    "$oid": "5e980983e7b9acfe8f68ed98"
+  },
+  "name": "proctitis",
+  "definition": "Proctitis is inflammation of the lining of the rectum. Proctitis may be acute or chronic. Anal sex, inflammatory bowel disease, or radiation therapy to your pelvic area or abdomen may cause proctitis. If not treated, proctitis may have complications.",
+  "symptoms-causes": "The most common symptom of proctitis is tenesmus—an uncomfortable, frequent urge to have a bowel movement. Causes of proctitis include infections, inflammatory bowel disease, and radiation therapy.",
+  "diagnosis": "Your doctor diagnoses proctitis based on your medical history, a physical exam, lab test results, and medical procedures. Your doctor can diagnose some causes of proctitis, such as Crohn’s disease and ulcerative colitis, with medical procedures.",
+  "treatment": "Treatment of proctitis depends on its cause and the severity of your symptoms and often includes medicines. Some causes of proctitis, such as infection or rectal injury, can be prevented. Doctors treat complications of proctitis with medical procedures.",
+  "diet": "Depending on the cause of your proctitis, changing your diet can help reduce symptoms. Eating high-fiber foods may prevent constipation. Avoiding certain foods may prevent diarrhea from getting worse. Talk with your doctor before changing your diet."
+},{
+  "_id": {
+    "$oid": "5e980984e7b9acfe8f68ed99"
+  },
+  "name": "viral-gastroenteritis",
+  "definition": "Viral gastroenteritis is an infection of your intestines that typically causes watery diarrhea, pain or cramping in your abdomen, nausea or vomiting, and sometimes fever. People commonly call viral gastroenteritis “stomach flu,” but the term is not medically correct. Flu viruses do not cause viral gastroenteritis.",
+  "symptoms-causes": "The symptoms of viral gastroenteritis include watery diarrhea, pain or cramping in your abdomen, nausea or vomiting, and sometimes fever. Many different viruses can cause viral gastroenteritis. Viral gastroenteritis spreads through contact with small particles of an infected person’s stool or vomit.",
+  "diagnosis": "Doctors often diagnose viral gastroenteritis based on your symptoms. If your symptoms are mild and last only a short time, you typically won’t need tests. In some cases, a medical history, a physical exam, and stool tests can help diagnose viral gastroenteritis.",
+  "treatment": "In most cases, you can treat viral gastroenteritis by replacing lost fluids and electrolytes to prevent dehydration. You can take steps to help prevent viral gastroenteritis, such as washing your hands and disinfecting contaminated surfaces. Vaccines can protect children from rotavirus infections.",
+  "diet": "When you have viral gastroenteritis, you may vomit after you eat or lose your appetite for a short time. When your appetite returns, you can most often go back to eating your normal diet, even if you still have diarrhea. Most experts do not recommend fasting or following a restricted diet."
+},{
+  "_id": {
+    "$oid": "5e980a50e7b9acfe8f68ed9b"
+  },
+  "name": "bladder-infection-uti-in-adults",
+  "definition": "Bladder infections are the most common type of urinary tract infection (UTI), but any part of your urinary tract can become infected—the urethra, bladder, ureters, and kidneys. Your age, habits, or health conditions can make a UTI more likely.",
+  "symptoms-causes": "Symptoms of a bladder infection may include a burning feeling when you urinate. Most infections in women are caused by bacteria from the bowel that reach the urethra and bladder. Most infections in men are the result of problems that restrict normal urine flow, such as an enlarged prostate.",
+  "diagnosis": "Health care professionals use your medical history, a physical exam, and tests to diagnose a bladder infection. If you have repeat infections, your doctor may order additional tests to find the cause of your infection.",
+  "treatment": "Treatments for bladder infections and other UTIs may include antibiotics and drinking lots of liquids to help flush bacteria from your urinary tract. Changes in habits, hygiene, or birth control method may help prevent another infection.",
+  "diet": "Experts don’t think eating, diet, and nutrition play a role in preventing or treating bladder infections. If you have any type of UTI, talk with a health care professional about how much to drink each day to help prevent or relieve your infection."
+},{
+  "_id": {
+    "$oid": "5e980a51e7b9acfe8f68ed9c"
+  },
+  "name": "interstitial-cystitis-painful-bladder-syndrome",
+  "definition": "Interstitial cystitis (IC) is a chronic, or long-lasting, condition that causes painful urinary symptoms. Researchers don’t know the exact cause of IC.",
+  "symptoms-causes": "People with interstitial cystitis (IC) have discomfort, pressure, tenderness, or pain in the bladder, lower abdomen, and pelvic area. Symptoms vary from person to person, may come and go, and can change in each person as time goes on.",
+  "diagnosis": "A careful review of symptoms and a physical exam in a doctor’s office are generally the most important parts of diagnosing interstitial cystitis (IC). A health care professional will ask if you have a history of health problems that are related to IC.",
+  "treatment": "You and your doctor may be able to treat your interstitial cystitis (IC) with lifestyle changes, bladder training, physical therapy, medicines, bladder hydrodistention, bladder instillation, surgery, or a combination of these treatments.",
+  "diet": "No research consistently links certain foods or drinks to interstitial cystitis (IC), although many people find that certain foods and drinks can make their IC symptoms worse, such as alcohol, caffeine, and high-acid foods."
+},{
+  "_id": {
+    "$oid": "5e980a52e7b9acfe8f68ed9d"
+  },
+  "name": "kidney-infection-pyelonephritis",
+  "definition": "Kidney infection is a type of urinary tract infection (UTI) that commonly begins in your bladder and moves upstream to one or both of your kidneys. In rare cases, kidney infections can lead to serious health problems, but quick treatment prevents most complications.",
+  "symptoms-causes": "Symptoms of kidney infection can vary depending on your age and may include chills, fever, and painful urination. A kidney infection is caused by bacteria or viruses that infect your bladder and move upstream to infect one or both of your kidneys.",
+  "diagnosis": "Health care professionals use your medical history, a physical exam, and tests to diagnose kidney infection. Depending on your age, sex, and response to treatment, they will use certain tests to diagnose kidney infection.",
+  "treatment": "Doctors may treat your kidney infection by prescribing antibiotics. Make sure to take all of your medicine, even if you start to feel better.",
+  "diet": "If you have a kidney infection, drink lots of liquids to help flush bacteria from your urinary tract. If you have kidney failure, you should not drink this much liquid. Talk with your health care professional about how much liquid is right for you."
+},{
+  "_id": {
+    "$oid": "5e980a53e7b9acfe8f68ed9e"
+  },
+  "name": "kidney-stones",
+  "definition": "A kidney stone is a solid, pebble-like piece of material that can form in one or both of your kidneys when high levels of certain minerals are in your urine. Kidney stones rarely cause permanent damage if treated by a health care professional.​",
+  "symptoms-causes": "You may have a kidney stone if you feel a sharp pain in your back, side, lower abdomen, or groin; or have blood in your urine. If you have a small stone that easily passes through your urinary tract, you may not have symptoms at all.",
+  "diagnosis": "Health care professionals use your medical history, a physical exam, and tests to diagnose kidney stones. The tests may also be able to show problems that caused a kidney stone to form.",
+  "treatment": "Health care professionals may treat your kidney stones by removing the kidney stone or breaking it into small pieces. You may be able to prevent kidney stones by drinking enough water, changing the way you eat, or taking medicines.",
+  "diet": "If you have kidney stones, drink lots of water unless otherwise directed by a health care professional. You may be able to prevent future kidney stones by making changes in how much sodium, animal protein, calcium, and oxalate you consume."
+},{
+  "_id": {
+    "$oid": "5e980a54e7b9acfe8f68ed9f"
+  },
+  "name": "urinary-tract-infections-in-children",
+  "definition": "Bladder infections are the most common type of urinary tract infection (UTI), but any part of your child’s urinary tract can become infected including the urethra, bladder, ureters, or kidneys. UTIs are common, especially among girls. Bacteria normally found in the bowel cause most UTIs in children.",
+  "symptoms-causes": "Symptoms of a bladder infection may include pain or burning when a child urinates. Babies and young children may have different symptoms from older children. Sometimes a fever is the only symptom of a bladder infection in a young child.",
+  "diagnosis": "Health care professionals use your child’s medical history, a physical exam, and tests to diagnose a bladder infection. If a child has repeat infections, imaging tests may be needed to find the cause.",
+  "treatment": "Treatments for bladder infections and other UTIs may include antibiotics and drinking plenty of liquids to help flush bacteria from your child’s urinary tract. Better bathroom habits and avoiding constipation may help prevent another UTI.",
+  "diet": "Food choices do not help prevent or treat bladder infections in children, but drinking plenty of liquids may help. Talk with a health care professional about how much liquid your child should drink, depending on his or her age, size, and other health conditions."
+},{
+  "_id": {
+    "$oid": "5e980a67e7b9acfe8f68eda1"
+  },
+  "name": "alagille-syndrome",
+  "definition": "Alagille syndrome is a genetic disorder that may affect many different parts of the body, including the liver. A person with Alagille syndrome has fewer than the normal number of small bile ducts inside the liver. As bile builds up in the liver, it may cause liver damage.",
+  "symptoms-causes": "The most common signs and symptoms of Alagille syndrome are related to the liver. Alagille syndrome may also affect other parts of the body, such as the heart, eyes, face, skeleton, blood vessels, and kidneys. Gene mutations cause Alagille syndrome.",
+  "diagnosis": "Doctors diagnose Alagille syndrome based on signs and symptoms, medical and family history, a physical exam, an eye exam, and medical tests, which may include blood tests, imaging tests, and a liver biopsy.",
+  "treatment": "Doctors treat the symptoms and complications of Alagille syndrome with medicines and in some cases surgery. Doctors may refer people with Alagille syndrome to doctors who specialize in the liver, heart, blood vessels, or kidneys to treat the disease.",
+  "diet": "Getting enough nutrients is important for people who have Alagille syndrome, especially for infants and children. If you or your child has Alagille syndrome, talk with a doctor or dietitian about a healthy eating plan."
+},{
+  "_id": {
+    "$oid": "5e980a68e7b9acfe8f68eda2"
+  },
+  "name": "autoimmune-hepatitis",
+  "definition": "Autoimmune hepatitis is a chronic disease in which your body’s immune system attacks the liver and causes inflammation and liver damage. Without treatment, autoimmune hepatitis may get worse and lead to complications, such as cirrhosis.",
+  "symptoms-causes": "Common symptoms of autoimmune hepatitis include feeling tired, pain in your joints, nausea, poor appetite, pain over your liver, and jaundice. Some people have no symptoms at the time of diagnosis, but they may develop symptoms later. Experts aren’t sure what causes autoimmune hepatitis.",
+  "diagnosis": "Doctors diagnose autoimmune hepatitis based on your medical history, a physical exam, blood tests, imaging tests, and liver biopsy. Blood tests can show signs of autoimmune hepatitis or other liver diseases. A doctor can use a liver biopsy to look for the features of autoimmune hepatitis and to check for cirrhosis.",
+  "treatment": "Doctors treat autoimmune hepatitis with medicines that suppress your immune system, most often corticosteroids—prednisone or prednisolone—with or without azathioprine. These medicines may cause side effects. If autoimmune hepatitis leads to liver failure or liver cancer, you may need a liver transplant.",
+  "diet": "If autoimmune hepatitis leads to cirrhosis, you should eat a healthy, well-balanced diet. Researchers have not found that eating, diet, and nutrition play a role in causing or preventing autoimmune hepatitis."
+},{
+  "_id": {
+    "$oid": "5e980a69e7b9acfe8f68eda3"
+  },
+  "name": "biliary-atresia",
+  "definition": "Biliary atresia is a condition in infants in which the bile ducts outside and inside the liver are scarred and blocked. Bile can’t flow into the intestine, so bile builds up in the liver and damages it. The damage leads to scarring, loss of liver tissue and function, and cirrhosis.",
+  "symptoms-causes": "Typically, the first sign of biliary atresia is yellowing of the skin and whites of the eyes, called jaundice, which results from the buildup of bile in the body. Infants with biliary atresia typically develop jaundice by 3 to 6 weeks of age. Experts don’t know what causes biliary atresia.",
+  "diagnosis": "To diagnose biliary atresia, doctors will ask about the infant’s medical and family history, perform a physical exam, and order a series of tests. If test results suggest that an infant is likely to have biliary atresia, the next step is surgery to confirm the diagnosis.",
+  "treatment": "Doctors treat biliary atresia with a surgery called the Kasai procedure and eventually, in most cases, a liver transplant. Thanks to advances in treatment, more than 80 to 90 percent of infants with biliary atresia survive to adulthood.",
+  "diet": "Children with biliary atresia may have reduced bile flow to the small intestine and liver damage, which may lead to malnutrition. To make sure infants and children with biliary atresia get enough nutrients and calories, doctors may recommend a special eating plan and supplements."
+},{
+  "_id": {
+    "$oid": "5e980a6ae7b9acfe8f68eda4"
+  },
+  "name": "cirrhosis",
+  "definition": "Cirrhosis is a condition in which your liver is scarred and permanently damaged. Scar tissue replaces healthy liver tissue and prevents your liver from working normally. As cirrhosis gets worse, your liver begins to fail.",
+  "symptoms-causes": "Cirrhosis has many signs and symptoms, such as fatigue and severe itchy skin. They may not appear until the liver is badly damaged. Causes include alcoholic liver disease, nonalcoholic fatty liver disease, chronic hepatitis C, and chronic hepatitis B.",
+  "diagnosis": "Doctors diagnose cirrhosis based on your medical history, a physical exam, and the results of tests. Tests include blood tests such as liver function tests and tests for viral infections, imaging tests, and liver biopsy.",
+  "treatment": "Doctors do not have specific treatments that can cure cirrhosis. However, they can treat many of the diseases that cause cirrhosis. Treating the underlying causes of cirrhosis may keep your cirrhosis from getting worse and may help prevent liver failure.",
+  "diet": "If you have cirrhosis, you should eat a healthy, well-balanced diet. Talk with your doctor, a dietitian, or nutritionist about healthy eating. Avoid foods and drinks that can damage your liver, such as shellfish and alcohol."
+},{
+  "_id": {
+    "$oid": "5e980a6be7b9acfe8f68eda5"
+  },
+  "name": "hemochromatosis",
+  "definition": "Hemochromatosis is a disorder in which extra iron builds up in the body to harmful levels. Without treatment, hemochromatosis can cause iron overload, a buildup of iron that can damage many parts of the body, including your liver, heart, pancreas, endocrine glands, and joints.",
+  "symptoms-causes": "With the buildup of harmful levels of iron, hemochromatosis can cause symptoms including feeling tired or weak, pain in the joints, loss of interest in sex or erectile dysfunction, pain in the abdomen over the liver, and darkening of skin color. Gene mutations cause the most common type of hemochromatosis.",
+  "diagnosis": "Doctors diagnose hemochromatosis based on blood tests to check levels of iron and certain proteins in the blood and to check for gene mutations that commonly cause hemochromatosis. In some cases, doctors may also use a liver biopsy to confirm iron overload is present.",
+  "treatment": "Treatment of hemochromatosis can improve symptoms and prevent complications. In most cases, doctors treat hemochromatosis with phlebotomy, or drawing about a pint of blood at a time, on a regular schedule. This is the most direct and safe way to lower body stores of iron.",
+  "diet": "If you have hemochromatosis, you should eat a healthy, well-balanced diet. Your doctor may recommend avoiding raw shellfish, avoiding iron and vitamin C supplements, and limiting alcohol. If you have cirrhosis, you should completely stop drinking alcohol."
+},{
+  "_id": {
+    "$oid": "5e980a6de7b9acfe8f68eda6"
+  },
+  "name": "nafld-nash",
+  "definition": "Nonalcoholic fatty liver disease (NAFLD) is a condition in which fat builds up in your liver. Nonalcoholic steatohepatitis (NASH) is a type of NAFLD. If you have NASH, you have inflammation and liver cell damage, along with fat in your liver.",
+  "symptoms-causes": "Usually, nonalcoholic fatty liver disease (NAFLD) and nonalcoholic steatohepatitis (NASH) cause few or no symptoms. Certain health conditions—including obesity, metabolic syndrome, and type 2 diabetes—make you more likely to develop NAFLD and NASH.",
+  "diagnosis": "Doctors use your medical history, a physical exam, and tests to diagnose nonalcoholic fatty liver disease (NAFLD) and nonalcoholic steatohepatitis (NASH). Tests may include blood tests, imaging tests, and sometimes liver biopsy.",
+  "treatment": "Doctors recommend weight loss to treat nonalcoholic fatty liver disease (NAFLD) and nonalcoholic steatohepatitis (NASH). Weight loss can reduce fat in the liver, inflammation, and fibrosis. No medicines have been approved to treat NAFLD and NASH.",
+  "diet": "You may be able to prevent nonalcoholic fatty liver disease (NAFLD) and nonalcoholic steatohepatitis fatty liver disease (NASH) by eating a healthy diet and maintaining a healthy weight. If you have NAFLD and NASH, your doctor may recommend weight loss and diet changes."
+},{
+  "_id": {
+    "$oid": "5e980a6ee7b9acfe8f68eda7"
+  },
+  "name": "nafld-nash-children",
+  "definition": "Nonalcoholic fatty liver disease (NAFLD) is a condition in which fat builds up in the liver. Nonalcoholic steatohepatitis (NASH) is the form of NAFLD in which a child has hepatitis—inflammation of the liver—and liver cell damage, in addition to fat in the liver.",
+  "symptoms-causes": "Nonalcoholic fatty liver disease (NAFLD) and nonalcoholic steatohepatitis (NASH) typically cause few or no symptoms. Children with certain health conditions—such as obesity, metabolic syndrome, and type 2 diabetes—are more likely to develop NAFLD and NASH.",
+  "diagnosis": "Doctors use medical and family history, a physical exam, and tests to diagnose nonalcoholic fatty liver disease (NAFLD) and nonalcoholic steatohepatitis (NASH) in children and to check for other liver problems. Tests may include blood and imaging tests and sometimes liver biopsy.",
+  "treatment": "Doctors recommend that children who are overweight or obese lose weight to treat nonalcoholic fatty liver disease (NAFLD) and nonalcoholic steatohepatitis (NASH). No medicines have been approved to treat NAFLD and NASH in children.",
+  "diet": "Eating a healthy diet, limiting portion sizes, and maintaining a healthy weight can help prevent nonalcoholic fatty liver disease (NAFLD) and nonalcoholic steatohepatitis (NASH) in children. If a child has NAFLD or NASH, the parent or caretaker should talk with a doctor about the child’s diet."
+},{
+  "_id": {
+    "$oid": "5e980a6fe7b9acfe8f68eda8"
+  },
+  "name": "primary-biliary-cholangitis",
+  "definition": "Primary biliary cholangitis is a chronic disease in which the small bile ducts in the liver become injured and inflamed and are eventually destroyed. When there are no bile ducts, bile builds up and causes liver damage.",
+  "symptoms-causes": "Common early symptoms of primary biliary cholangitis are feeling tired and itchy skin. As the disease gets worse, you may have more symptoms. Although the exact cause of the disease is unknown, the immune system and environmental triggers may play a role.",
+  "diagnosis": "Doctors diagnose primary biliary cholangitis based on your medical and family history, a physical exam, and the results of medical tests. Medical tests to diagnose primary biliary cholangitis may include blood tests, imaging tests, and liver biopsy.",
+  "treatment": "Doctors treat primary biliary cholangitis with medicines. Doctors may treat the symptoms and complications of the disease with medicines, dietary supplements, changes in diet and lifestyle, and medical procedures.",
+  "diet": "A healthy, well-balanced diet is important in all stages of primary biliary cholangitis. Your doctor can recommend a healthy eating plan that provides enough calories and nutrients to help your liver work properly and manage complications. You should stop drinking alcohol."
+},{
+  "_id": {
+    "$oid": "5e980a70e7b9acfe8f68eda9"
+  },
+  "name": "primary-sclerosing-cholangitis",
+  "definition": "Primary sclerosing cholangitis, or PSC, is a chronic disease in which the bile ducts inside and outside the liver become inflamed and scarred, and eventually narrowed or blocked. When this happens, bile builds up in the liver and causes liver damage.",
+  "symptoms-causes": "The main symptoms of primary sclerosing cholangitis (PSC) are feeling tired or weak and having itchy skin. Other symptoms may include losing weight without trying, poor appetite, fever, and pain in the abdomen. The cause of PSC is not known.",
+  "diagnosis": "Doctors diagnose primary sclerosing cholangitis based on your medical and family history, a physical exam, and the results of medical tests, such as blood tests and imaging tests. Your doctor may perform a liver biopsy to confirm the diagnosis.",
+  "treatment": "Doctors can’t cure primary sclerosing cholangitis (PSC) or keep the disease from getting worse. They can treat narrowed or blocked bile ducts and the symptoms and complications of PSC, such as itchy skin, low vitamin levels, and bile duct infection.",
+  "diet": "If you have primary sclerosing cholangitis, you should eat well-balanced meals that give you enough calories and nutrients. If you have low levels of fat-soluble vitamins, your doctor may recommend eating foods that are high in vitamins A, D, E, and K."
+},{
+  "_id": {
+    "$oid": "5e980a71e7b9acfe8f68edaa"
+  },
+  "name": "wilson-disease",
+  "definition": "Wilson disease is a genetic disorder that prevents the body from removing extra copper, causing copper to build up in the liver, brain, eyes, and other organs. Without treatment, high copper levels can cause life-threatening organ damage.",
+  "symptoms-causes": "The symptoms of Wilson disease vary. The symptoms may be related to your liver, nervous system and mental health, eyes, or other organs. Gene mutations cause Wilson disease.",
+  "diagnosis": "Doctors diagnose Wilson disease based on your medical and family history, a physical exam, an eye exam, blood tests, and urine tests. Doctors may also use a liver biopsy and imaging tests.",
+  "treatment": "Doctors treat Wilson disease with chelating agents and zinc. People who have Wilson disease need lifelong treatment to manage symptoms and reduce or prevent organ damage. If Wilson disease causes acute liver failure or cirrhosis with liver failure, you may need a liver transplant.",
+  "diet": "If you have Wilson disease, talk with your doctor about your diet and foods that contain copper. When you start treatment for Wilson disease, your doctor may recommend avoiding foods that are high in copper, such as\tchocolate, liver, mushrooms, nuts, and shellfish."
+}]
